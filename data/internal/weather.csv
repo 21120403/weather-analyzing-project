@@ -1,1002 +1,1001 @@
-Country,Name,Weather,Temp,Humidity,Rain,Visibility,Wind speed,Clouds
-JP,Tokyo,Clouds,283.3,43,,10000,5.66,75
-ID,Pecenongan,Clouds,299.01,86,,6000,1.54,40
-IN,New Delhi,Smoke,296.25,43,,2200,0.0,40
-CN,Guangzhou,Clear,295.07,44,,10000,2.04,9
-IN,Konkan Division,Smoke,304.15,62,,3000,3.09,40
-PH,Quiapo District,Rain,297.68,92,0.14,9000,1.79,75
-CN,Xuhui,Clear,284.95,78,,10000,4.0,0
-BR,Liberdade,Clouds,290.17,83,,10000,4.63,75
-KR,Seoul,Clear,270.77,59,,10000,1.54,0
-MX,Mexico City,Clear,283.09,87,,10000,0.0,0
-EG,Al ‘Atabah,Clouds,299.48,21,,6000,7.2,40
-US,City Line,Clouds,272.62,62,,10000,2.57,20
-BD,Sāmāir,Haze,300.13,54,,3500,0.0,20
-CN,Beijing,Clouds,267.07,24,,10000,1.41,53
-IN,Kolkata,Haze,299.12,61,,3200,2.06,40
-TH,Nonthaburi,Clouds,300.54,66,,10000,1.95,97
-CN,Gangxia,Clear,294.67,74,,10000,0.89,9
-RU,Moscow,Clouds,267.42,93,,10000,2.11,90
-AR,San Nicolas,Clear,293.2,68,,10000,3.09,0
-NG,Lagos,Clouds,302.69,67,,10000,4.29,70
-TR,Istanbul,Clear,290.15,63,,10000,7.72,0
-PK,Karachi,Haze,302.23,21,,2500,6.17,75
-IN,Kanija Bhavan,Clouds,295.9,94,,6000,3.09,40
-VN,Ho Chi Minh City,Clouds,302.1,84,,8000,1.03,40
-JP,Osaka,Clouds,281.57,64,,10000,4.63,40
-CN,Chengdu,Clear,290.03,60,,10000,3.0,0
-IR,Tehran,Haze,288.92,21,,3500,2.06,0
-CD,Kinshasa,Rain,303.36,66,1.11,10000,4.12,75
-BR,Rio de Janeiro,Clouds,298.09,58,,10000,3.6,75
-IN,Park Town,Mist,301.49,83,,2300,4.12,75
-CN,Lianhu,Clouds,273.63,55,,10000,1.09,51
-PK,Lahore,Smoke,295.14,49,,4000,0.0,40
-CN,Chongqing,Clouds,289.24,88,,10000,2.24,100
-US,Beverly Hills,Clouds,283.47,82,,10000,2.06,75
-CN,Baoding,Clouds,273.05,28,,10000,2.33,54
-GB,London,Clear,278.71,67,,10000,5.14,6
-FR,Paris 01 Louvre,Clouds,280.81,74,,10000,5.14,75
-CN,Linyi,Clouds,279.38,70,,10000,2.03,100
-CN,Dongguan,Clouds,295.08,51,,10000,2.31,26
-IN,Hyderabad,Haze,299.38,57,,5000,3.6,75
-CN,Tianjin Municipality,Clear,272.14,55,,10000,2.0,0
-PE,Rímac,Clouds,291.38,82,,10000,2.57,100
-CN,Wuhan,Clouds,284.14,43,,10000,5.04,37
-CN,Nanyang,Clouds,280.89,32,,10000,1.28,100
-CN,Sijiqing,Clouds,286.4,70,,10000,3.13,50
-CN,Huanshi,Clear,299.18,41,,10000,1.98,10
-JP,Nagoya,Clear,281.93,65,,10000,2.74,0
-TW,Xianeibu,Drizzle,292.45,88,,10000,5.66,75
-CN,Kuishan,Clouds,282.78,54,,10000,1.94,98
-AO,Luanda,Clouds,303.15,66,,10000,3.6,75
-CN,Zhoukou,Rain,278.96,57,0.67,10000,2.64,100
-CN,Ganzhou,Clear,290.0,73,,10000,1.24,3
-MY,Kuala Lumpur,Rain,300.52,90,0.56,10000,1.03,20
-CN,Heze,Rain,276.0,82,1,10000,0.34,100
-CN,Quanzhou,Clouds,290.76,65,,10000,3.79,93
-US,Chicago,Clouds,271.22,62,,10000,0.89,100
-CN,Nanjing,Clear,283.1,65,,10000,3.9,3
-CN,Jining,Rain,276.46,87,1.54,10000,2.17,100
-VN,Xom Pho,Clouds,297.12,66,,10000,4.45,74
-IN,Pune,Clouds,300.11,57,,10000,2.39,83
-CN,Fuyang,Clouds,281.42,60,,10000,4.86,91
-IN,Ahmedabad,Smoke,302.17,37,,5000,5.66,78
-ZA,Johannesburg,Clear,303.17,33,,10000,0.45,8
-CO,Santa Barbara Central,Clouds,286.14,82,,10000,1.03,20
-TZ,Dar es Salaam,Rain,301.09,76,0.83,10000,4.52,98
-CN,Shenyang,Clouds,269.18,86,,4000,4.0,100
-SD,Khartoum,Clouds,311.07,15,,10000,5.35,25
-CN,Shangqiu,Rain,278.17,65,0.5,10000,2.32,100
-CN,Cangzhou,Clouds,274.09,34,,10000,1.7,57
-HK,Kowloon,Clouds,295.86,74,,10000,4.47,23
-CN,Niangxi,Clouds,286.96,65,,10000,2.72,15
-CN,Haitou,Clouds,295.41,77,,10000,7.54,72
-CN,Yancheng,Clear,281.0,71,,10000,3.3,3
-CN,Hengyang,Clear,287.47,66,,10000,2.34,2
-SA,Al Khālidīyah,Clouds,297.36,36,,10000,3.98,76
-CN,Zhumadian,Rain,279.04,62,0.55,10000,1.99,100
-CL,Barrio Bellavista,Mist,291.48,63,,10000,3.6,0
-CN,Xingtai,Clouds,275.84,33,,10000,2.74,69
-BD,Chittagong,Haze,300.08,61,,4500,2.06,40
-CN,Bijie,Clouds,286.24,88,,10000,3.25,63
-CN,Shangrao,Clouds,284.95,73,,10000,1.97,15
-CN,Zunyi,Clouds,285.67,87,,10000,2.62,100
-IN,Surat,Clouds,304.09,51,,6000,2.57,20
-ID,Surabaya,Clouds,300.12,78,,8000,2.57,40
-CN,Fankou,Clouds,286.41,48,,10000,3.18,36
-CN,Maoming,Clouds,293.51,77,,10000,4.65,15
-CN,Nanchong,Clouds,287.99,87,,10000,2.74,100
-CN,Xinyang,Rain,279.13,85,2.66,10000,2.74,100
-ES,Madrid,Clear,287.5,53,,10000,1.03,0
-IQ,Shūrīyah,Clear,294.12,37,,10000,3.09,0
-CN,Qujing,Clear,284.95,64,,10000,2.52,3
-CN,Jieyang,Clouds,293.11,74,,10000,1.41,44
-SG,Tanglin Halt,Clouds,299.19,94,,10000,1.03,75
-IN,George Town,Clear,295.78,24,,10000,1.13,0
-CN,Liaocheng,Clouds,275.54,81,,10000,3.59,100
-CN,Dalian,Rain,278.05,48,0.22,10000,3.0,20
-CN,Yulin,Clear,294.76,58,,10000,0.99,1
-CN,Changde,Clouds,285.29,40,,10000,4.86,83
-CN,Qingdao,Clouds,279.94,70,,10000,2.0,75
-CM,Akwa,Clouds,305.08,66,,10000,1.54,75
-US,Miami,Clouds,295.01,94,,10000,3.6,20
-CN,Xinxiang,Snow,274.96,52,,10000,2.25,86
-CN,Huamu,Clear,284.91,79,,10000,4.0,0
-CN,Xiangfan,Clouds,278.82,60,,10000,3.28,96
-US,Dallas,Clouds,279.08,88,,10000,2.06,40
-US,Houston,Clouds,282.35,86,,10000,6.69,20
-CN,Zhengzhou,Clouds,275.41,30,,10000,1.6,97
-CN,Lu'an,Clouds,284.51,58,,10000,2.06,21
-CN,Dezhou,Clouds,275.32,42,,10000,3.02,91
-CN,Jinan,Clouds,276.52,85,,10000,2.28,100
-EG,Giza,Clouds,299.57,16,,10000,9.51,100
-CN,Zhaotong,Clouds,282.82,90,,10000,4.17,18
-CN,Chuntai,Clouds,284.53,77,,10000,0.72,36
-KE,Nairobi,Clouds,297.0,58,,10000,5.14,75
-MX,Guadalajara,Clear,278.01,75,,10000,0.0,0
-US,Philadelphia,Clear,270.83,71,,10000,1.54,0
-TR,Kolej,Clouds,285.29,74,,10000,5.14,75
-CN,Tai’an,Clouds,275.14,96,,2269,1.45,100
-CN,Dazhou,Clouds,286.22,85,,10000,2.09,100
-CN,Langfang,Clouds,272.84,30,,10000,1.56,46
-CN,Lengshuitan,Clear,288.9,64,,10000,2.25,6
-CA,Don Mills,Clear,270.8,76,,10000,4.63,0
-CN,Suihua,Clouds,257.33,93,,10000,2.4,100
-RU,Aptekarskiy,Clouds,264.22,89,,9000,2.0,20
-CN,Qiqihar,Clouds,261.07,78,,10000,3.04,100
-CN,Suzhou,Clouds,282.78,59,,10000,2.41,78
-MX,Monterrey,Clouds,288.11,71,,10000,1.07,82
-BR,Belo Horizonte,Clear,296.84,65,,10000,6.69,0
-CN,Shuangwang,Clouds,277.19,61,,10000,0.62,43
-MM,Yangon,Haze,302.16,70,,6000,2.57,40
-CN,Zhangzhou,Clouds,292.14,73,,10000,0.77,33
-CN,Yuncheng,Clouds,274.16,50,,10000,1.16,36
-CN,Qindu,Clear,273.73,74,,10000,0.0,0
-CN,Guilin,Clouds,290.21,71,,10000,1.01,67
-US,Fulton,Clouds,279.13,84,,10000,3.6,20
-CN,Taizhou,Clear,282.57,67,,10000,4.33,0
-IR,Kashan,Clouds,291.08,18,,10000,1.79,18
-CN,Bozhou,Rain,279.65,61,0.28,10000,3.39,100
-CI,Abidjan,Thunderstorm,298.09,94,0.36,8000,4.63,75
-CN,Suqian,Clouds,281.08,63,,10000,3.55,15
-CN,Huaihua,Clouds,285.97,66,,10000,2.13,70
-CN,Ji’an,Clouds,286.39,70,,10000,2.46,18
-CN,Xiaogan,Clouds,284.16,66,,10000,7.38,79
-CN,Pingdingshan,Clouds,279.02,35,,10000,1.37,100
-CN,Jiujiang,Clear,286.83,52,,10000,0.68,5
-EG,Ash Shāţibī,Clouds,299.97,30,,10000,7.65,100
-CN,Mianyang,Clouds,286.97,63,,10000,1.09,100
-AU,Sydney,Rain,292.41,90,0.38,10000,2.06,40
-CN,Kaifeng,Clouds,276.43,53,,10000,1.23,99
-US,District of Columbia,Clouds,272.46,70,,10000,5.66,75
-ES,"Sant Pere, Santa Caterina i La Ribera",Clouds,289.49,65,,10000,4.63,75
-CN,Changsha,Clouds,285.19,50,,10000,3.39,11
-CN,Chenzhou,Clouds,287.63,81,,10000,1.3,17
-CN,Anking,Clouds,286.73,43,,10000,0.89,33
-CN,Jiangmen,Clouds,296.96,62,,10000,3.43,16
-CN,Xinpu,Clouds,281.04,64,,10000,4.53,89
-CN,Yibin,Clouds,290.3,83,,10000,1.31,100
-CN,Yangzhou,Clear,283.63,73,,10000,4.55,0
-AU,Melbourne,Drizzle,290.45,91,,10000,2.06,75
-DE,Mitte,Clouds,275.84,85,,10000,2.68,100
-CN,Hengshui,Clouds,274.2,31,,10000,1.2,63
-CO,Rosas,Clouds,288.32,93,,10000,0.89,94
-CN,Kunming,Clear,287.12,54,,10000,4.0,0
-CN,Yiyang,Clouds,287.21,44,,10000,3.86,45
-CN,Guigang,Clear,294.83,65,,10000,1.98,3
-CN,Changchun,Clouds,264.07,86,,10000,2.12,96
-CN,Xuchang,Clouds,277.69,42,,10000,0.96,100
-MA,Région du Grand Casablanca,Clouds,291.66,55,,8000,3.6,75
-CN,Meizhou,Clouds,292.13,63,,10000,0.96,22
-CN,Zhangjiakou,Clouds,267.81,54,,10000,1.46,45
-CN,Chifeng,Clouds,268.06,32,,10000,4.26,49
-CN,Ürümqi,Smoke,274.87,81,,5000,1.0,78
-CN,Suzhou,Clouds,285.45,61,,10000,3.97,13
-TR,Izmir,Clouds,289.81,77,,10000,5.14,75
-CN,Linfen,Clouds,274.99,52,,10000,2.99,34
-CN,Changxiacun,Clear,293.07,64,,10000,3.0,0
-AF,Kabul,Clouds,284.06,23,,10000,0.89,100
-SO,Mogadishu,Rain,304.07,79,0.23,10000,6.69,40
-CN,Luzhou,Clouds,289.17,91,,10000,0.83,100
-CN,Hefei,Clear,282.16,76,,10000,2.0,0
-US,Suffolk,Clouds,269.01,60,,10000,3.6,20
-CN,Liuzhou,Clouds,291.9,68,,10000,2.21,15
-CN,Zhaoqing,Clear,299.16,59,,10000,1.23,5
-CN,Yichang,Clouds,283.07,59,,10000,1.25,99
-CN,Shijiazhuang,Clouds,270.09,23,,10000,0.46,65
-CN,Ningbo,Clouds,283.08,81,,9000,0.0,100
-CN,Qingyun,Clouds,286.39,77,,10000,1.39,53
-US,Glendale,Clear,285.66,45,,10000,2.24,0
-CN,Jianning,Clear,285.17,66,,10000,1.27,4
-JO,Amman,Haze,291.05,63,,3000,1.03,100
-CN,Chuzhou,Clear,284.4,66,,10000,3.17,6
-SA,Jeddah,Clear,306.13,46,,10000,4.63,0
-CN,Qingyuan,Clear,295.09,58,,10000,1.55,7
-CN,Loudi,Clouds,286.71,56,,10000,2.71,16
-CN,Binzhou,Rain,276.4,56,0.14,10000,2.18,100
-CN,Deyang,Clouds,287.12,63,,10000,2.02,99
-CN,Taiyuan,Clear,273.08,59,,10000,2.0,0
-NG,Kano,Clouds,309.09,32,,8000,2.57,82
-CN,Yijiang,Clear,284.93,72,,10000,4.82,0
-CN,Nanning,Clear,295.41,62,,10000,2.4,6
-CN,Harbin,Clouds,258.07,91,,10000,1.8,100
-NG,Abuja,Clouds,307.15,38,,10000,1.6,67
-JP,Yokohama,Clouds,283.73,44,,10000,5.66,75
-CN,Jinling,Clouds,280.57,60,,10000,1.2,59
-CN,Zaozhuang,Clouds,279.5,63,,10000,2.54,100
-CN,Amoy,Clouds,292.18,68,,10000,4.0,75
-CN,Neijiang,Clouds,289.57,85,,10000,3.37,97
-CN,Antai,Clouds,290.09,74,,10000,1.03,100
-CN,Baise City,Clouds,297.84,99,,10000,1.59,93
-CN,Anshan,Clouds,270.46,50,,10000,4.42,81
-ID,Medan,Clouds,300.95,83,,8000,3.13,40
-CN,Yulinshi,Clouds,273.56,39,,10000,3.59,44
-CN,Wenzhou,Clouds,288.28,67,,10000,1.34,100
-CN,Changzhou,Clear,285.3,60,,10000,4.32,0
-CN,Puyang Chengguanzhen,Clouds,274.86,79,,10000,2.66,92
-CN,Jiaozuo,Clouds,276.65,44,,10000,3.92,95
-CN,Nanchang,Clouds,287.57,60,,10000,1.45,50
-NG,Ibadan,Clouds,306.51,47,,10000,2.0,89
-CN,Hechi,Clouds,292.24,80,,10000,1.54,95
-US,Highland Park,Clear,267.38,79,,10000,1.54,0
-CA,Montreal,Clear,265.46,72,,10000,4.63,0
-KR,Busan,Clouds,274.06,47,,10000,1.54,20
-CN,Hohhot,Clear,266.28,45,,10000,3.0,0
-US,Seattle,Clear,273.35,88,,10000,2.24,0
-DZ,El Madania,Clouds,293.01,40,,10000,3.09,20
-CN,Hanzhong,Clouds,278.44,89,,10000,1.42,91
-CN,Tangshan,Clouds,272.06,38,,10000,2.08,69
-CN,Shiyan,Clouds,277.74,69,,10000,1.69,100
-IN,Lucknow,Haze,297.2,46,,2000,1.35,0
-CN,Ssupingkai,Clouds,265.21,75,,10000,1.78,62
-IR,Mashhad,Clear,291.22,34,,10000,2.06,0
-GH,Ashanti Region,Rain,304.01,57,0.47,10000,1.72,53
-CN,Changzhi,Clouds,272.52,52,,10000,1.59,66
-AE,Dubai,Clouds,301.14,57,,10000,4.63,20
-CN,Qinzhou,Clear,294.91,62,,10000,1.74,2
-CN,Guiyang,Clouds,290.5,72,,10000,2.0,75
-CN,Bengbu,Clouds,283.74,62,,10000,2.61,23
-US,San Francisco County,Clear,281.1,59,,10000,3.09,0
-CN,Bazhou,Clouds,285.84,82,,10000,1.32,100
-CN,Tianshui,Clouds,280.53,31,,10000,0.51,68
-CN,Suining,Clouds,288.32,85,,10000,2.83,100
-CN,Wuxi,Clear,285.83,60,,10000,5.09,3
-CN,Leshan,Clouds,289.69,78,,10000,1.83,100
-CN,Putian,Clouds,289.91,68,,10000,2.9,95
-CN,Zhenjiang,Clear,283.57,73,,10000,4.45,0
-PK,Faisalabad,Clouds,295.25,23,,10000,0.1,100
-CN,Guang’an,Clouds,287.7,87,,10000,1.84,100
-CN,Tongren,Clouds,286.03,69,,10000,1.92,88
-BO,El Trompillo,Clouds,295.18,83,,10000,5.66,75
-CN,Qinhuangdao,Clouds,273.46,52,,10000,4.12,98
-CN,Tongliao,Clouds,263.38,79,,10000,4.82,84
-CN,Jinzhou,Clouds,272.9,69,,10000,4.74,99
-CN,Dongpu,Clouds,294.39,61,,10000,1.51,50
-US,Serra Mesa,Clear,283.91,86,,10000,2.57,0
-IN,Rambagh,Smoke,296.84,43,,2500,0.0,84
-CN,Xinzhou,Clouds,273.87,47,,10000,0.41,65
-CN,Lanzhou,Clouds,278.76,45,,10000,0.41,100
-CN,Wuzhou,Clear,293.52,62,,10000,0.83,5
-GR,Metaxourgio,Clouds,293.16,52,,10000,11.32,40
-ET,Addis Ababa,Clear,295.46,24,,10000,4.43,7
-CN,Chaoyang,Clouds,270.81,54,,10000,5.82,86
-BR,Guará,Clouds,298.94,57,,10000,4.63,40
-TW,Taichung,Clouds,294.39,72,,10000,3.09,40
-KW,Kuwait City,Clouds,294.18,48,,10000,2.02,35
-HU,Budapest I. kerület,Clouds,277.81,63,,10000,7.72,75
-CN,Shaoguan,Clouds,288.72,38,,10000,0.92,17
-CN,Shanwei,Clouds,293.78,71,,10000,8.34,41
-PH,Quezon City,Clouds,297.56,92,,9000,2.68,75
-CN,Rizhao,Clouds,281.07,73,,10000,3.1,100
-UA,Pushcha-Vodytsya,Clouds,276.81,72,,10000,0.45,64
-YE,Sanaa,Clear,296.22,13,,10000,3.56,7
-CN,Meishan,Clouds,289.19,81,,10000,2.37,92
-KR,Incheon,Clear,273.13,43,,10000,1.54,0
-GT,Guatemala City,Clouds,289.98,94,,10000,6.17,40
-GB,Birmingham,Clear,277.76,75,,10000,3.09,0
-CN,Zhongshan,Clear,297.01,59,,10000,4.02,10
-CN,Ningteh,Clouds,288.41,74,,10000,0.91,100
-CN,Weihai,Clouds,276.43,70,,10000,4.45,95
-CN,Daqing,Clouds,260.19,88,,10000,2.74,100
-TR,Bursa,Clouds,286.96,62,,10000,5.28,100
-BR,Salvador,Clouds,302.03,65,,10000,4.63,20
-IT,Rome,Clear,284.17,45,,10000,11.32,0
-CN,Haikou,Clouds,296.18,88,,10000,4.0,20
-BO,La Paz,Fog,282.91,82,,4000,1.54,75
-CN,Xiangtan,Clear,285.18,58,,10000,2.52,3
-KP,Ch’angjŏn-dong,Clouds,270.63,30,,10000,0.78,39
-US,Minneapolis,Clouds,267.6,69,,10000,1.54,75
-SD,Omdurman,Clouds,310.85,16,,10000,5.29,31
-ID,Malang,Rain,296.17,98,0.46,7872,1.09,99
-CN,Mudanjiang,Clouds,260.74,86,,10000,0.83,99
-DE,Stuttgart,Clouds,276.98,83,,10000,9.26,75
-US,Brooklyn,Clouds,272.69,60,,10000,2.57,20
-TW,Kaohsiung City,Clouds,296.33,75,,10000,1.54,40
-EC,Guayaquil,Clouds,298.04,73,,10000,2.06,40
-PT,Lisbon Municipality,Fog,289.52,74,,10000,4.63,40
-CN,Longyan,Clouds,289.63,73,,10000,1.24,85
-CN,Tieling,Snow,269.43,53,,10000,3.4,62
-GB,Manchester,Clouds,277.11,76,,10000,0.51,16
-CN,Baotou,Clouds,271.14,33,,10000,1.77,24
-CN,Handan,Clouds,275.86,40,,10000,3.57,84
-IN,Kanpur,Clear,296.27,36,,10000,1.59,0
-CN,Dingxi,Clouds,275.79,42,,10000,0.22,77
-CN,Nanping,Clouds,288.18,77,,10000,1.2,87
-US,Citrus Park,Clouds,288.13,86,,10000,4.12,40
-CN,Zigong,Clouds,290.34,83,,10000,2.84,88
-VE,Maracaibo,Clouds,299.28,84,,10000,1.3,23
-CN,Chaozhou,Clouds,293.09,74,,10000,2.21,47
-CD,Mbuji-Mayi,Rain,299.67,72,0.45,10000,2.74,99
-US,Aurora,Clouds,263.24,85,,10000,4.63,100
-CN,Dongjie,Clouds,290.05,75,,10000,1.06,100
-CN,Weifang,Clouds,277.48,89,,10000,1.85,100
-CN,Huai'an,Clear,281.57,65,,10000,4.33,0
-CN,Zibo,Clouds,278.04,66,,10000,1.16,100
-CN,Ankang,Clouds,277.65,76,,10000,0.39,100
-CN,Baoshan,Clear,285.15,71,,10000,0.58,1
-MG,Namontana,Rain,301.24,51,0.6,10000,6.17,75
-CN,Jinjiao,Clouds,274.28,65,,10000,5.61,100
-DE,Munich,Snow,273.69,83,,10000,1.79,87
-CN,Yanjiang,Clouds,288.6,86,,10000,3.36,97
-DO,Villa María,Clouds,298.43,90,,10000,1.34,20
-CN,Xubi,Clouds,287.62,83,,10000,1.18,47
-UZ,Toshkent Shahri,Clear,287.95,41,,10000,2.06,0
-CN,Pingluo,Clouds,278.63,35,,10000,0.89,63
-CN,Yangjiang,Clouds,293.47,75,,10000,3.92,13
-CN,Jiamusi,Clouds,253.59,92,,10000,3.12,69
-CN,Luohe,Rain,278.44,46,1.03,10000,2.51,100
-CN,Lincang,Clouds,286.8,80,,10000,0.71,13
-CO,Belén,Fog,290.57,97,,10000,3.09,40
-CN,Xuanzhou,Clear,284.15,75,,10000,3.62,0
-CN,Yunfu,Clear,293.7,63,,10000,0.85,5
-CN,Datang,Clouds,285.12,72,,10000,2.27,58
-CN,Qingyang,Rain,276.53,64,0.42,10000,1.9,97
-CN,Henan’an,Clouds,292.53,71,,10000,2.75,32
-CN,Lishui,Clouds,285.36,81,,10000,1.03,24
-IN,Mirzāpur,Clear,294.11,27,,10000,1.38,0
-DE,Hamburg,Clouds,278.41,82,,10000,4.63,75
-CN,Guangyuan,Clouds,283.33,81,,10000,2.52,96
-CO,Santiago de Cali,Clouds,294.9,93,,9778,0.66,100
-ZM,Lusaka,Clouds,304.5,29,,10000,2.08,65
-CN,Tuanchengshan,Clouds,286.59,56,,10000,0.85,21
-CN,Xining,Clouds,275.38,46,,10000,0.77,93
-BF,Centre Region,Clouds,307.19,14,,8000,4.63,75
-KR,Daegu,Clear,273.06,37,,10000,0.51,0
-BR,Fortaleza,Clouds,303.09,64,,10000,6.17,75
-CM,Yaoundé,Clouds,303.89,70,,10000,0.0,75
-CN,Jilin City,Clouds,262.83,86,,10000,1.46,85
-CN,Dandong,Clouds,270.68,26,,10000,0.92,64
-CN,Zhuhai,Clear,295.7,78,,10000,7.72,0
-CN,Huludao,Clouds,273.94,62,,10000,5.21,100
-CN,Yingkou,Snow,272.85,76,,10000,7.65,90
-TR,Antalya,Thunderstorm,294.18,73,1.33,10000,10.8,75
-IN,Nagpur,Haze,299.14,61,,2500,1.03,20
-US,Queens County,Clouds,272.47,63,,10000,4.47,20
-GH,Fort Christiansborg,Rain,303.11,66,0.25,10000,5.39,97
-ID,Bulanbulan,Clouds,298.81,94,,6000,1.54,40
-IN,Ghaziabad,Clouds,294.26,22,,10000,0.92,79
-CN,Yuxi,Clouds,286.26,78,,10000,1.37,14
-CN,Luoyang,Clouds,276.22,44,,10000,1.78,88
-AU,Brisbane,Clouds,294.36,81,,10000,2.57,75
-CN,Anshun,Clouds,286.57,91,,10000,3.99,90
-ID,Depok,Clouds,299.33,88,,6000,1.54,40
-CN,Shangzhou,Clouds,275.73,79,,10000,0.95,66
-CN,Shuihucun,Clear,284.5,65,,10000,2.48,9
-LK,Colombo,Clouds,298.15,78,,10000,2.23,54
-CN,Hulutao,Clouds,265.28,61,,10000,1.32,50
-AZ,Cherni Gorod,Clouds,289.09,47,,10000,11.27,61
-JP,Yakuin-Horibata,Clear,280.11,76,,10000,1.54,0
-CN,Yan’an,Clouds,277.16,38,,10000,0.9,35
-CN,Jincheng,Clouds,274.74,43,,10000,1.47,61
-CA,Vancouver,Clouds,275.04,91,,10000,2.57,75
-CN,Guanyinshan,Clear,283.16,66,,10000,4.57,9
-ID,Tangerang,Clouds,298.79,91,,4300,1.03,75
-VE,Caracas,Clouds,296.17,79,,10000,0.89,40
-CN,Sanmenxia,Clouds,273.91,58,,10000,1.42,49
-CN,Laibin,Clouds,294.03,67,,10000,3.06,14
-TR,Konya,Clouds,284.14,66,,10000,2.06,75
-BR,Manaus,Clear,300.3,78,,10000,3.09,0
-IR,Isfahan,Clouds,288.94,25,,10000,0.73,18
-CN,Tongchuan,Clouds,276.25,38,,10000,2.49,76
-US,Baltimore,Clouds,271.66,70,,10000,1.54,75
-CN,Ma’anshan,Clear,283.04,69,,10000,4.89,0
-CN,Dongying,Clouds,276.59,71,,10000,2.82,100
-CN,Gaoping,Clouds,287.76,86,,10000,2.65,100
-CN,Jiaojiang,Clouds,285.88,78,,10000,2.29,99
-ZW,Harare,Clouds,305.36,18,,10000,2.51,32
-HK,Kowloon,Clouds,295.39,73,,10000,4.47,21
-US,Eastland Heights,Clear,279.19,41,,10000,6.17,0
-CU,Centro Habana,Clouds,292.44,94,,9000,1.03,20
-AU,South Perth,Rain,299.24,58,0.18,10000,3.09,0
-KH,Phnom Penh,Clouds,301.1,69,,10000,2.06,40
-CN,Puning,Clouds,290.28,80,,10000,1.24,58
-CN,Huaibei,Clouds,282.26,57,,10000,2.46,99
-CN,Jinjiang,Clouds,291.67,63,,10000,5.15,97
-VN,Haiphong,Clear,296.14,78,,10000,2.06,0
-CN,Taiping,Clouds,295.77,58,,10000,1.5,35
-PK,Dhok Mangtal,Clouds,291.48,57,,10000,1.94,100
-CN,Kunshan,Clouds,285.12,59,,10000,3.24,22
-US,University City,Clear,271.13,85,,10000,2.57,0
-GH,Kumasi,Rain,304.36,56,0.5,10000,1.82,46
-IN,Vadodara,Smoke,303.13,45,,5000,2.57,40
-CN,Babu,Clouds,294.04,67,,10000,1.12,64
-CN,Pingliang,Clouds,278.03,46,,10000,0.72,91
-US,Portland,Mist,274.05,86,,4828,2.68,75
-IN,Alipur,Haze,300.28,65,,2500,4.12,75
-PK,Gujranwala,Clouds,295.19,27,,10000,0.61,100
-CN,Baicheng,Clouds,262.86,63,,10000,2.42,100
-TR,Gaziantep,Clouds,283.09,87,,10000,4.12,75
-CN,Fushun,Clouds,268.98,53,,10000,4.16,72
-US,Riverside,Clouds,282.73,86,,10000,2.06,20
-ML,Bamako Region,Clear,306.44,16,,10000,2.06,0
-EC,Quito,Rain,282.5,94,1.4,10000,1.03,75
-BY,Minsk City,Snow,273.01,94,,654,3.63,89
-MX,Tijuana,Clear,284.19,86,,10000,3.09,0
-CM,Bamenda,Rain,298.82,64,0.44,10000,0.79,91
-SO,Bosaso,Clouds,302.18,70,,10000,4.63,20
-IN,Indore,Haze,297.21,46,,5000,3.09,2
-TR,Sanliurfa,Clouds,287.09,56,,10000,8.31,100
-AT,Vienna,Clouds,275.71,83,,10000,8.94,75
-IR,Karaj,Clear,288.9,20,,10000,2.06,0
-CD,Kabasele-Pania,Rain,297.66,86,0.76,10000,2.49,100
-PK,Sabzi Mandi,Haze,293.33,42,,4000,0.0,75
-JP,Sapporo,Snow,268.25,72,,9893,5.37,72
-MX,Ecatepec de Morelos,Clear,280.95,87,,10000,3.09,0
-CN,Pingxiang,Clouds,284.9,81,,10000,1.42,24
-US,Pine Castle,Clouds,288.39,85,,10000,3.6,75
-SY,Aleppo,Clouds,291.17,55,,10000,3.16,100
-US,Sacramento,Clear,277.77,71,,10000,3.09,0
-KZ,Gornyy Gigant,Mist,279.71,76,,5000,2.0,20
-PR,Leprocomio,Clear,299.56,87,,10000,0.45,0
-US,Bexar,Clouds,284.84,74,,10000,3.6,100
-CN,Yinchuan,Clouds,276.01,30,,10000,1.89,52
-IN,Thāne,Smoke,304.11,62,,3000,3.09,40
-BR,Vila Matias,Clouds,293.9,60,,7000,4.12,100
-MW,Blantyre,Rain,304.43,27,0.18,10000,2.06,75
-RO,Grefoaicele,Clouds,278.07,93,,10000,4.12,100
-BR,Curitiba,Mist,287.81,71,,3700,2.57,100
-PK,Multan,Smoke,297.07,50,,1500,0.0,75
-TW,Tainan,Clouds,292.29,77,,10000,1.03,20
-CN,Datong,Clouds,272.32,35,,10000,2.85,73
-NG,Orogbum,Clouds,305.59,52,,10000,3.65,53
-PL,Warsaw,Clouds,273.21,92,,10000,7.2,75
-CN,Jixi,Clouds,254.05,93,,10000,1.37,51
-PK,Saidu Sharīf,Clouds,290.59,27,,10000,0.61,100
-CN,Liaoyang,Clouds,269.31,47,,10000,4.61,78
-CN,Beihai,Clouds,295.87,78,,10000,6.05,15
-KE,Meru,Rain,293.6,84,1.38,7849,1.67,92
-CG,Brazzavile Department,Rain,303.2,66,1.04,10000,1.54,75
-CN,Fuxin,Clouds,271.61,52,,10000,4.93,99
-CN,Wuwei,Clouds,277.47,30,,10000,2.83,49
-TR,Mersin,Clouds,290.42,68,,10000,2.5,100
-IN,Bhopal,Haze,298.22,36,,3000,1.03,20
-CD,Lubumbashi,Clouds,302.28,40,,10000,3.37,77
-ID,Denpasar,Clouds,300.77,83,,10000,1.54,40
-PH,Davao City,Clouds,301.21,74,,10000,2.57,75
-CN,Tangjian,Clouds,280.69,66,,10000,4.61,32
-TR,Adana,Clouds,293.04,60,,10000,4.63,75
-SY,Damascus,Clouds,288.61,51,,10000,2.71,100
-BE,Arrondissement Brussel-Hoofdstad,Clouds,279.92,84,,10000,4.63,40
-PK,Barkat Bhāi Town,Clouds,302.68,17,,10000,3.66,87
-TR,Diyarbakır,Clouds,287.28,54,,10000,3.09,75
-US,Seven Trees,Clear,280.66,57,,10000,0.89,0
-IN,Pimpri,Clouds,300.07,56,,10000,2.49,78
-UY,Departamento de Montevideo,Clear,290.34,55,,10000,3.6,0
-US,Pittsburgh,Clouds,268.77,82,,10000,2.3,100
-CN,Shuozhou,Clouds,272.48,45,,10000,3.58,78
-US,Saint Bernard,Clear,270.53,75,,10000,5.14,0
-CN,Benxi,Clouds,268.58,56,,10000,3.54,72
-CN,Baiyin,Clouds,273.57,37,,10000,0.87,100
-IQ,Mosul,Clouds,289.29,47,,10000,3.08,100
-US,Manhattan,Clear,272.22,64,,10000,2.57,0
-PH,Caloocan City,Clouds,297.67,92,,9000,2.68,75
-UG,Kampala,Rain,299.04,68,0.23,10000,2.35,82
-IN,Patna,Mist,296.09,78,,1500,0.0,0
-HN,Comayagüela,Clouds,292.4,94,,10000,1.03,40
-US,Cleveland,Clouds,271.29,80,,10000,2.57,40
-CN,Wanxian,Clouds,286.1,90,,10000,1.93,100
-CN,Changshu City,Clear,282.9,65,,10000,3.94,4
-SA,Makkah al Mukarramah,Clouds,305.31,41,,10000,3.19,15
-CN,Heihe,Clear,256.46,77,,10000,3.61,6
-CN,Jingdezhen,Clouds,285.82,66,,10000,1.26,93
-GN,Camayenne,Clouds,303.18,70,,10000,3.09,20
-BR,Graças,Clouds,303.12,54,,10000,4.12,40
-US,Marion,Clear,271.04,73,,10000,3.6,0
-US,Austin,Clouds,282.3,83,,10000,2.57,100
-ID,Pamulang,Clouds,301.33,71,,6000,1.54,40
-US,North Kansas City,Clouds,271.15,64,,10000,2.06,100
-TW,Songwu,Clouds,291.78,87,,10000,7.2,75
-RU,Novosibirsk,Clouds,267.81,73,,10000,8.05,100
-IN,Bilāspur,Clear,297.18,45,,10000,0.92,0
-ID,Semarang,Clouds,300.16,83,,7000,1.03,40
-IN,Ludhiana,Clouds,295.98,57,,10000,2.02,99
-BD,Nārāyanganj,Clear,300.16,50,,10000,2.65,7
-SE,Stockholm,Clouds,268.27,83,,10000,6.69,20
-CN,Tengzhou,Clouds,278.89,67,,10000,2.1,100
-IN,Belanganj,Clouds,296.38,30,,10000,1.28,79
-ML,Kita,Clear,307.27,9,,10000,1.23,10
-IN,Belanganj,Clouds,296.38,30,,10000,1.28,79
-MX,León,Clear,282.16,45,,10000,1.02,7
-CI,Attiecoubé,Thunderstorm,298.08,94,0.32,8000,4.63,75
-MX,Puebla City,Clear,280.75,84,,10000,0.8,2
-IN,Madurai,Mist,301.14,78,,5000,2.06,75
-CN,Yigou,Clouds,274.23,59,,10000,3.5,70
-AR,Córdoba,Clear,298.47,45,,10000,7.2,0
-IR,Shiraz,Clouds,290.82,39,,8000,3.09,12
-IN,Jamshedpur,Haze,297.12,64,,2500,0.0,2
-IR,Tabriz,Clouds,284.83,40,,10000,2.06,75
-CN,Huzhou,Clouds,284.59,77,,10000,4.15,54
-US,Columbus,Clouds,268.89,80,,10000,2.06,20
-BG,Sofia,Rain,275.18,96,0.18,10000,5.66,100
-JP,Kawasaki,Clouds,283.78,43,,10000,5.66,75
-CR,San José,Clouds,291.28,88,,10000,3.6,40
-NG,Aba,Clouds,305.13,55,,10000,2.32,90
-ID,Kertapati,Haze,299.19,94,0.47,5000,1.03,75
-CN,Zhangjiajie,Clouds,283.99,70,,10000,1.43,84
-JP,Kobe,Clouds,281.84,66,,10000,3.09,40
-CN,Jiaxing,Clouds,289.27,71,,10000,4.49,91
-US,Charlotte,Clouds,277.62,86,,10000,3.6,20
-CN,Guiping,Clear,294.27,66,,10000,1.43,5
-CN,Luozhou,Clouds,293.76,79,,10000,4.13,11
-CN,Ximeicun,Clouds,290.58,66,,10000,1.49,88
-CN,Jianguang,Clouds,286.77,72,,10000,1.8,72
-CN,Jinshaba,Clouds,287.94,85,,10000,0.34,100
-PA,Panama City,Clouds,299.01,91,,10000,1.54,40
-CN,Xushan,Clouds,283.12,75,,10000,3.83,94
-BR,Belém,Clouds,302.17,74,,10000,5.66,75
-US,Virginia Beach,Clear,277.93,73,,10000,9.26,0
-CN,Leicheng,Clouds,295.93,76,,10000,6.63,98
-KR,Yach’on,Clear,273.1,47,,10000,0.87,0
-IN,Nashik,Clear,301.18,39,,10000,0.78,2
-BR,Porto Alegre,Clouds,293.61,64,,10000,3.09,75
-VE,Valencia,Clouds,297.95,78,,10000,0.43,40
-NG,Onitsha,Rain,306.56,51,0.22,10000,1.46,86
-AE,Abu Dhabi,Clouds,301.59,55,,10000,4.63,20
-KR,Daejeon,Clear,271.07,39,,10000,0.81,0
-MX,Zapopan2,Clear,278.01,51,,10000,0.8,5
-US,Eastchester,Clouds,272.22,64,,10000,4.47,20
-RU,Posëlok Rabochiy,Snow,269.96,86,,10000,3.0,100
-CN,Huazhou,Clouds,279.69,48,,10000,3.08,100
-JP,Shijōdōri,Clouds,281.08,84,,10000,0.73,60
-CN,Jinhua,Clear,284.63,76,,10000,1.35,0
-NL,Amsterdam,Clouds,280.49,79,,10000,7.72,20
-CN,Shuangyashan,Clouds,253.1,90,,10000,3.27,61
-CN,Pizhou,Clouds,280.43,61,,10000,2.63,84
-MA,Sidi Moussa,Clouds,289.28,47,,10000,2.03,86
-SN,Dakar,Clear,302.22,58,,10000,8.23,0
-UA,Kharkiv,Clouds,274.16,94,,10000,0.41,100
-CN,Zhangjiagang,Clear,283.12,82,,10000,0.89,0
-CN,Xijiao,Clouds,276.11,39,,10000,2.35,89
-CN,Kunyang,Clouds,288.21,71,,10000,3.31,100
-BD,Khulna,Clouds,296.06,54,,10000,2.14,37
-OM,Muscat,Clouds,300.16,58,,10000,2.79,33
-CN,Wenling,Clouds,287.49,76,,10000,4.3,96
-CN,Gaozhou,Clouds,293.34,74,,10000,2.32,15
-IN,Faridabad,Clouds,294.31,23,,10000,0.67,80
-CN,Chizhou,Clouds,286.27,49,,10000,0.86,42
-IL,Tel Aviv,Clear,297.14,44,,10000,2.06,0
-MN,Ulaanbaatar Hot,Clouds,254.13,84,,10000,2.0,40
-BR,Goiânia,Clear,301.16,69,,10000,3.09,0
-CN,Fuqing,Clouds,290.0,75,,10000,4.42,99
-TR,Kayseri,Clouds,286.1,50,,10000,4.12,75
-CN,Wuzhong,Clouds,275.07,33,,10000,3.86,58
-RS,Serbia,Clouds,277.31,83,,10000,5.66,40
-CN,Pingdu,Rain,277.22,78,2.3,10000,1.67,100
-IT,Milan,Clear,284.08,20,,10000,7.72,0
-IN,Aurangabad,Clear,300.6,42,,10000,2.07,1
-DK,Inner City,Clouds,274.56,66,,10000,7.72,75
-CN,Yangquan,Clouds,274.7,64,,10000,3.3,63
-CN,Yutan,Clouds,287.24,46,,10000,3.89,32
-CN,Huangshan City,Clouds,285.24,69,,10000,1.18,52
-NZ,Herne Bay,Clouds,287.45,71,,10000,3.09,88
-ID,Makassar,Rain,297.17,100,1.15,7000,1.03,40
-DO,Santiago de los Caballeros,Mist,295.28,94,,5000,0.0,20
-US,Wauwatosa,Clouds,268.25,75,,10000,0.45,40
-IN,Rajkot,Clouds,305.35,29,,10000,1.1,86
-CZ,Prague,Clouds,275.73,75,,10000,6.26,75
-TR,Samsun,Clouds,292.51,40,,10000,7.2,75
-CN,Liangshi,Clear,286.55,64,,10000,3.04,5
-CO,Barranquilla,Rain,299.95,94,0.36,10000,0.0,75
-JP,Saitama,Clouds,283.01,46,,10000,3.61,59
-BR,Guarulhos,Mist,290.02,84,,5000,4.63,100
-IQ,Al Başrah al Qadīmah,Clear,295.14,37,,10000,3.09,0
-MM,Mandalay,Clouds,298.19,82,,10000,1.26,13
-MX,Ciudad Juárez,Clear,280.9,55,,10000,4.02,0
-CN,Xintai,Clouds,275.81,90,,3553,1.26,100
-CN,Tongling,Clouds,285.85,53,,10000,0.89,18
-IN,Meerut,Clouds,295.77,26,,10000,1.21,69
-CN,Yushu,Clouds,262.23,85,,10000,1.54,100
-CN,Zhong’an,Clear,284.79,55,,10000,0.26,3
-CN,Hexi,Clouds,293.78,76,,10000,4.86,13
-AU,Adelaide,Clouds,289.47,81,,10000,6.17,75
-CN,Baishan,Snow,264.21,74,,10000,1.16,44
-CN,Lijiang,Clear,279.86,52,,10000,1.81,0
-CN,Haicheng,Clouds,271.32,59,,10000,5.28,82
-LY,Tripoli,Clouds,292.89,54,,10000,14.95,91
-CN,Yaosai,Clear,283.1,61,,10000,4.38,0
-CN,Yicheng,Clouds,285.29,72,,10000,5.55,11
-CN,Huai'an,Clear,281.46,65,,10000,4.41,0
-PT,Cedofeita,Clear,287.42,74,,10000,1.54,0
-AO,Luanda,Clouds,303.58,66,,10000,3.6,75
-ZA,Soweto,Clouds,304.04,13,,10000,3.09,22
-AR,Rosario,Clear,296.09,49,,10000,3.6,0
-PH,Province of Cagayan,Clouds,295.98,93,,10000,1.38,100
-FI,Helsinki,Clouds,264.8,80,,10000,7.15,20
-IN,Jabalpur,Haze,297.71,38,,3000,1.54,0
-US,Providence,Clear,268.86,65,,10000,2.57,0
-CN,Rucheng,Clear,282.91,66,,10000,4.3,2
-RU,Nizhny Novgorod,Clouds,269.71,86,,9000,1.0,100
-IR,Ahvāz,Clouds,297.12,46,,8000,0.0,64
-ID,Mlonggo,Clouds,300.46,79,,10000,3.39,100
-CN,Xinghua,Clear,282.08,68,,10000,4.54,0
-HN,Comayagüela,Clouds,292.56,94,,10000,1.03,40
-CN,Laiwu,Clouds,275.3,92,,885,1.4,100
-AE,Al Ghuwair,Clouds,301.12,57,,10000,5.14,20
-IN,Ulhasnagar,Clear,304.13,43,,10000,3.01,9
-CN,Jingling,Rain,281.73,66,1.13,10000,5.23,92
-RU,Kizicheskaya,Clouds,273.69,95,,10000,5.1,92
-KR,Namhyang-dong,Clear,270.92,64,,10000,0.0,0
-CN,Suixi,Clouds,280.65,59,,10000,4.22,99
-ID,Sumedang Utara,Clouds,296.27,92,,10000,0.32,97
-CA,Calgary,Clear,268.85,71,,10000,1.03,0
-VN,Can Tho,Clouds,300.14,83,,10000,0.51,75
-CN,Yiwu,Clear,284.37,77,,10000,1.41,8
-ID,Kangboi,Clouds,299.32,89,,9000,2.06,40
-CN,Beidao,Clouds,277.99,34,,10000,0.81,74
-IN,Virār,Clear,302.15,63,,10000,3.99,4
-CN,Dongguan,Clear,285.02,92,,10000,2.43,5
-US,Jacksonville,Clouds,284.35,94,,10000,5.14,75
-TR,Akçaabat,Rain,290.48,59,0.25,10000,3.77,89
-BR,Campinas,Clouds,292.04,72,,10000,6.69,75
-CN,Panzhihua,Clear,288.21,66,,10000,0.21,0
-KE,Old Mombasa,Clouds,302.39,74,,10000,2.57,75
-CN,Lingcheng,Clear,294.13,61,,10000,1.7,1
-IN,Bahadurgarh,Smoke,294.24,56,,2200,0.0,40
-BR,Oiapoque,Clouds,300.74,83,,10000,2.6,41
-BD,Tongi,Haze,300.13,54,,3500,0.0,20
-RU,Chelyabinsk,Smoke,271.94,86,,5000,3.0,84
-IN,Varanasi,Clear,294.16,27,,10000,0.78,0
-CN,Xinyu,Clouds,285.27,73,,10000,1.15,51
-IR,Qom,Clouds,290.2,18,,10000,3.2,23
-SO,Hargeisa,Clouds,296.43,49,,10000,6.51,100
-CN,Zhangye,Clear,276.85,28,,10000,1.8,1
-JP,Hiroshima,Clear,283.12,80,,10000,2.3,10
-NG,Maiduguri,Clouds,310.32,15,,10000,1.46,38
-TH,Chiang Mai,Clouds,298.73,74,,10000,2.06,20
-QA,Doha,Clouds,300.12,57,,10000,6.17,40
-MZ,Maputo,Clouds,302.94,62,,10000,9.26,20
-CD,Mbandaka,Rain,300.69,68,0.11,10000,1.47,97
-SN,Pikine,Clear,302.2,58,,10000,8.23,0
-SA,Medina,Clear,304.36,30,,10000,2.57,0
-IN,Srinagar,Clouds,284.53,22,,10000,0.38,100
-RU,Omsk,Clouds,267.04,79,,10000,5.0,75
-IE,Mountjoy,Clouds,278.72,82,,10000,2.06,40
-CN,Liaoyuan,Snow,264.85,75,,10000,2.26,53
-ID,Karangbadar Kidul,Clouds,300.11,82,,10000,2.16,90
-CN,Yingtan,Clouds,285.51,78,,10000,1.93,54
-ID,Palembang,Clouds,296.99,95,,10000,0.66,100
-RU,Samara,Clouds,274.08,93,,10000,5.29,100
-CN,Guankou,Clouds,284.99,73,,10000,0.72,18
-KR,Ulsan,Clear,275.24,48,,10000,1.63,4
-IN,Dhanbad,Clear,296.23,26,,10000,2.57,0
-CN,Dingzhou,Clouds,270.22,25,,10000,1.62,38
-CN,Lianyuan,Clouds,287.54,60,,10000,1.94,37
-CN,Xinshazhou,Clouds,282.6,55,,10000,6.88,71
-CN,Hebi,Clouds,275.9,52,,10000,1.1,48
-MM,Nay Pyi Taw,Clear,296.04,81,,10000,2.47,7
-CN,Zhuji,Clouds,284.08,76,,10000,0.12,16
-RW,Kigali,Thunderstorm,290.74,100,1.43,6000,2.06,75
-CD,Bukavu,Rain,292.21,96,0.77,6847,1.6,80
-CN,Leiyang,Clear,287.71,73,,10000,1.98,8
-CM,Bafoussam,Clouds,297.93,59,,10000,1.76,75
-CN,Yichun,Clouds,256.08,90,,10000,2.77,94
-NG,Benin City,Rain,306.96,49,0.19,10000,1.32,54
-RU,Rostov-on-Don,Clouds,281.65,77,,4561,9.83,100
-CN,Xiantao,Clouds,282.76,56,,10000,6.52,67
-IN,Amritsar,Mist,293.12,77,,2200,0.0,40
-PE,Bocanegra,Clouds,292.26,82,,10000,2.57,100
-US,Salt Lake City,Clouds,271.78,79,,10000,4.12,100
-IN,Aligarh,Clouds,295.85,30,,10000,1.35,84
-NG,Sagamu,Clouds,306.51,51,,10000,2.65,86
-CN,Yingchuan,Clouds,278.21,37,,10000,0.89,100
-MX,Ciudad Nezahualcoyotl,Clear,281.14,87,,10000,3.09,0
-GE,Meria,Clear,287.48,54,,10000,3.09,0
-IN,Guwahati,Mist,297.13,73,,2500,1.03,40
-RU,Staroye Baryatino,Clouds,274.28,95,,10000,6.0,40
-MA,Fes,Clear,291.31,36,,10000,2.57,0
-BR,São Luís,Clouds,304.26,62,,10000,6.69,75
-VN,Bien Hoa,Clouds,302.14,87,,10000,1.96,100
-ES,La Atalaya,Clear,289.81,46,,10000,0.45,4
-TD,N'Djamena,Clouds,311.12,12,,7000,3.6,54
-MX,Mexicali,Clear,286.41,64,,10000,2.18,8
-MX,Ciudad Nezahualcoyotl,Clear,281.15,87,,10000,3.09,0
-NG,Omuo-Ekiti,Clouds,304.79,50,,10000,1.96,92
-US,Nashville,Clouds,274.97,82,,10000,3.09,75
-GH,Tamale,Clouds,308.72,37,,10000,3.15,65
-CN,Jiuquan,Clear,276.8,29,,10000,1.77,7
-CN,Yuyao,Clouds,283.14,80,,10000,2.68,83
-IN,Howrah,Haze,299.12,61,,3200,2.06,40
-CN,Hanchuan,Clouds,284.12,64,,10000,7.25,63
-CN,Gongzhuling,Clouds,263.63,80,,10000,2.09,83
-RU,Krasnoyarsk,Snow,264.14,96,,121,1.06,100
-DE,Altstadt Nord,Clouds,279.42,82,,10000,7.72,100
-BI,Bujumbura,Rain,297.54,82,0.86,10000,2.22,61
-KG,Bishkek,Clouds,280.31,47,,10000,0.84,15
-CN,Zhu Cheng City,Rain,278.46,83,0.61,10000,1.4,100
-BR,São Gonçalo,Clouds,298.06,61,,10000,3.6,75
-AM,Yerevan,Clouds,285.2,50,,10000,0.0,82
-CN,Wuchang,Clouds,286.67,49,,10000,2.76,33
-KZ,Nur-Sultan,Clouds,271.2,74,,10000,8.0,75
-KR,Yongin,Clouds,270.53,50,,10000,0.51,40
-MR,Nouakchott,Clear,301.11,27,,10000,4.42,3
-CN,Haining,Clouds,289.22,74,,10000,4.82,82
-IN,Ranchi,Haze,293.16,60,,3000,1.03,0
-CN,Taixing,Clear,283.71,65,,10000,4.84,0
-ZA,Vereeniging,Clouds,306.67,14,,10000,2.92,53
-IN,Gwalior,Clouds,295.29,32,,10000,1.87,41
-CN,Hongsipu,Clouds,277.39,37,,10000,2.84,68
-KR,Goyang-si,Clear,271.35,59,,10000,1.54,0
-NO,Oslo,Clouds,272.47,80,,10000,1.45,68
-IN,Vijayawada,Haze,302.14,61,,3000,1.03,40
-IN,Chandigarh,Clouds,293.7,32,,10000,0.96,93
-CA,Edmonton,Clouds,272.23,79,,10000,3.09,57
-JP,Sendai,Clouds,277.8,56,,10000,5.66,75
-US,West Raleigh,Clouds,277.35,68,,10000,1.79,73
-CN,Mizhou,Rain,278.41,82,0.61,10000,1.33,100
-TN,Bab El Jazira,Clouds,291.14,48,,8000,15.95,40
-CN,Xishan,Clouds,285.63,76,,10000,1.22,14
-VE,Barquisimeto,Clouds,296.33,78,,10000,1.27,40
-CN,Hegang,Clouds,254.83,83,,10000,2.01,74
-RU,Voronezh,Clear,274.07,80,,10000,4.0,0
-RU,Perm,Snow,264.98,86,,10000,4.0,100
-KR,Changwon,Clear,272.08,29,,10000,1.08,0
-CN,Qinzhou,Clear,295.0,65,,10000,0.43,3
-CN,Shouguang,Clouds,276.84,81,,10000,1.33,100
-ID,Bogor,Clouds,298.52,91,,10000,0.22,99
-CO,Cartagena,Rain,301.01,89,0.19,10000,3.6,20
-MZ,Matola,Clouds,303.25,62,,10000,9.26,20
-IN,Ratanada,Clouds,299.35,19,,10000,2.62,80
-US,Oakville,Clouds,275.27,80,,10000,2.06,20
-NG,Ogbomoso,Clouds,306.25,47,,10000,2.29,75
-BD,Rangpur City,Clear,296.79,59,,10000,2.74,0
-NI,Barrio Santo Domingo,Clouds,297.18,94,,10000,2.06,20
-CN,Sanya,Clouds,299.27,69,,10000,6.0,75
-KZ,Shymkent,Clear,284.49,66,,10000,2.0,0
-CN,Tongxiang,Clouds,289.24,76,,10000,4.32,76
-NE,Niamey,Clear,308.22,8,,10000,3.6,0
-EG,Masākin al Akhshāb wa ash Shāy,Clouds,298.93,21,,6000,7.2,40
-CN,Linhai,Clouds,285.92,55,,10000,0.89,98
-TR,Denizli,Rain,286.61,84,0.27,5314,3.91,76
-BR,Maceió,Clouds,302.84,58,,10000,4.63,40
-LR,Crown Hill,Rain,301.03,70,0.34,10000,3.96,100
-CN,Wafangdian,Snow,272.37,98,,142,3.55,100
-CN,Anlu,Clouds,278.78,78,,10000,5.1,98
-US,Newburg,Clear,273.02,69,,10000,2.57,0
-UA,Odesa,Rain,277.51,94,2.75,2963,8.12,100
-VN,Ho Chi Minh City,Clouds,302.14,84,,8000,1.03,40
-RU,Volgograd,Rain,280.81,93,0.73,10000,1.0,75
-PK,Islamabad,Clouds,291.35,57,,10000,1.5,100
-HT,Port-au-Prince,Clouds,297.87,88,,9000,2.06,20
-CN,Xinyi,Clear,293.91,63,,10000,1.84,4
-IN,Raipur,Haze,299.22,61,,4000,1.03,7
-PE,Arequipa,Clear,289.19,29,,10000,1.54,0
-US,Richmond,Clouds,275.34,65,,10000,4.12,75
-CN,Zaoyang,Clouds,279.57,64,,10000,2.71,100
-US,Buffalo,Clouds,269.32,81,,10000,2.57,75
-CN,Huaidian,Rain,279.27,63,1.15,10000,2.85,100
-CN,Xinzhou,Clear,286.94,94,,10000,1.71,7
-IN,Kota,Clouds,297.56,28,,10000,2.21,53
-PK,Kot Malik Barkhurdar,Clouds,287.44,32,,10000,2.08,100
-NP,Thapathali,Clouds,290.35,77,,8000,3.09,20
-CA,ByWard Market,Clouds,265.2,84,,10000,2.57,20
-MW,Mchesi,Clouds,304.4,38,,10000,4.28,98
-ER,Maekel Region,Clouds,291.97,47,,10000,2.94,43
-SL,Freetown,Clouds,303.81,62,,10000,4.12,40
-LA,Vientiane,Mist,297.12,78,,5000,1.03,43
-IL,West Jerusalem,Clouds,292.54,46,,10000,2.24,100
-LV,Vecrīga,Snow,273.09,94,,6000,4.63,40
-CF,Bangui,Clouds,303.2,70,,10000,2.57,40
-TJ,Dushanbe,Clouds,290.21,29,,10000,3.0,99
-TG,Lomé,Thunderstorm,301.22,78,,10000,6.17,75
-TM,Ashgabat,Clear,290.07,48,,10000,2.06,5
-HR,Zagreb,Clouds,278.87,61,,10000,6.17,20
-GA,Libreville,Clouds,303.16,74,,10000,3.09,20
-BJ,Cotonou,Rain,305.13,66,0.11,10000,6.17,40
-ZA,Pretoria,Clear,306.36,24,,10000,3.09,1
-LT,Vilnius,Clouds,273.35,93,,10000,3.09,100
-CA,Winnipeg,Clouds,265.14,57,,10000,5.66,20
-CA,Québec,Clouds,261.17,79,,10000,2.57,20
-MD,Chișinău,Clouds,276.83,95,,10000,5.14,100
-PG,Boroko,Clouds,298.89,91,,10000,4.68,92
-MK,Skopje,Rain,276.05,93,0.18,8000,1.03,100
-DJ,Djibouti,Clouds,304.16,62,,10000,6.17,20
-PS,Gaza,Clouds,298.06,31,,10000,3.88,100
-JM,Kingston,Clouds,299.43,83,,10000,1.03,75
-MA,Medina De Rabat,Clouds,292.01,60,,5000,1.54,76
-SV,San Salvador,Clouds,293.11,96,,10000,1.34,100
-NL,The Hague,Clouds,282.02,76,,10000,6.69,83
-PY,Asunción,Clouds,297.75,78,,10000,3.6,100
-SS,Republic of South Sudan,Clouds,308.7,32,,10000,1.72,46
-LS,Maseru,Clouds,297.61,57,,10000,2.06,75
-GW,Bissau Autonomous Region,Clouds,305.34,31,,6000,2.57,36
-MT,Valletta,Clouds,290.41,63,,8000,14.92,75
-SK,Bratislava,Clouds,276.5,65,,10000,6.69,75
-CA,Kitchener,Clouds,271.32,81,,10000,4.63,100
-BH,Umm ash Sha‘ūm,Clouds,298.17,66,,10000,5.66,40
-EE,Toompea,Clouds,268.37,80,,10000,4.12,75
-LB,Beyrouth,Clouds,295.69,51,,10000,5.82,100
-ZA,Cape Town,Clear,296.09,54,,10000,7.72,0
-AL,Tirana,Rain,279.66,100,6.98,10000,5.14,100
-BA,Hrasno,Snow,273.44,86,,8000,1.54,75
-NZ,Wellington,Clouds,284.41,78,,10000,10.29,100
-GM,City of Banjul,Clear,302.3,45,,10000,4.63,0
-CA,Halifax,Clouds,267.4,68,,10000,8.23,71
-AU,Canberra,Clouds,289.05,90,,10000,4.63,50
-CI,Yamoussoukro,Clouds,303.68,70,,10000,3.09,75
-CA,Victoria,Clouds,276.12,90,,10000,5.14,88
-CY,Nicosia,Clouds,293.99,60,,10000,5.66,100
-NA,Windhoek,Clouds,302.56,34,,10000,6.17,40
-RE,Saint-Denis,Clear,300.57,70,,10000,9.26,0
-BJ,Porto-Novo,Clouds,305.05,56,,10000,4.25,87
-BO,El Tejar,Clouds,285.07,79,,10000,1.88,97
-SI,Ljubljana,Clouds,280.22,36,,10000,3.09,40
-BS,Nassau,Clouds,293.18,94,,10000,1.54,75
-ZA,Bloemfontein,Clouds,303.86,33,,10000,2.57,20
-MQ,Fort-de-France,Clouds,301.18,69,,10000,4.12,75
-IN,"Parliament House, Delhi",Smoke,294.22,56,,2200,0.0,40
-BW,Gaborone,Clouds,310.07,15,,10000,4.63,20
-SR,Zorg en Hoop,Clouds,300.92,86,,10000,1.79,31
-TL,Dili,Clouds,301.98,72,,10000,1.36,69
-TZ,Dodoma,Clouds,303.46,32,,10000,3.3,98
-GY,Georgetown,Clouds,302.31,74,,10000,4.13,21
-GI,Waterport,Clear,291.48,42,,10000,9.26,0
-GQ,Malabo,Rain,305.07,70,0.23,10000,2.06,40
-FJ,Suva,Clouds,295.86,94,,10000,0.0,75
-NC,Noumea,Clouds,293.14,69,,10000,3.81,75
-XK,Pristina,Snow,273.92,89,,2500,4.12,100
-MV,Malé,Clouds,303.12,74,,10000,2.57,20
-MU,Port Louis,Clouds,300.55,69,,10000,7.02,13
-ME,Podgorica,Clouds,279.0,81,,10000,7.2,100
-CW,Willemstad,Clouds,302.1,79,,10000,5.14,20
-CH,Bern,Rain,275.73,71,0.12,10000,4.02,75
-BI,Gitega,Rain,293.73,80,1.23,6981,2.02,85
-IS,Grímsstaðaholt,Clouds,278.07,100,,10000,3.6,20
-LU,Luxembourg,Rain,277.33,87,0.37,10000,5.14,75
-PF,Sainte Amélie,Clouds,298.11,83,,10000,1.54,20
-CV,Praia,Clouds,302.47,54,,10000,8.23,20
-LK,Kolonnawa,Clouds,298.16,80,,10000,1.92,60
-BB,Deacons,Clouds,301.45,78,,10000,7.72,75
-KM,Moroni,Rain,300.64,76,0.25,10000,1.36,92
-BT,Thimphu,Clouds,280.8,92,,10000,0.57,29
-SZ,Mbabane,Clear,299.89,32,,10000,5.39,2
-SB,Tamatangga,Clouds,299.46,90,,10000,1.75,95
-TT,Boissiere Village,Clouds,301.28,83,,10000,3.49,16
-LC,Sans Souci,Clouds,300.94,75,,10000,3.09,20
-MY,Putrajaya,Rain,299.37,91,0.75,7062,0.51,100
-GF,Cayenne,Clouds,302.16,79,,10000,2.57,75
-ST,São Tomé,Clouds,301.32,73,,10000,2.86,91
-VU,Port-Vila,Clouds,294.03,88,,10000,1.03,20
-BN,Kampong Parit,Thunderstorm,302.18,89,,10000,1.54,75
-MC,Monaco,Clouds,287.82,41,,10000,2.06,20
-WS,Apia,Clouds,298.66,77,,10000,6.0,63
-KI,Teaoraereke Village,Clouds,302.2,79,,10000,1.03,40
-AW,Santa Helena,Clouds,302.6,79,,10000,6.69,20
-JE,Saint Helier,Clouds,284.03,46,,10000,1.54,20
-YT,Mamoudzou,Clouds,304.94,62,,10000,3.6,20
-MH,RMI Capitol,Clouds,302.15,79,,10000,5.66,75
-IM,Douglas,Clouds,279.0,70,,10000,2.06,75
-KY,George Town,Clouds,300.16,78,,10000,3.09,20
-SC,Victoria,Clouds,303.74,66,,10000,5.14,20
-VC,Kingstown,Rain,300.75,78,0.1,10000,5.66,75
-AD,Andorra,Clear,283.91,23,,10000,4.63,0
-AG,St John's,Clouds,301.16,78,,10000,3.6,20
-TO,Nuku'alofa,Clouds,296.34,94,,10000,0.51,40
-GL,Sermersooq,Rain,275.48,93,0.58,10000,7.72,100
-BZ,Belmopan,Clouds,296.36,99,,10000,0.5,81
-DM,Roseau,Clouds,301.51,65,,10000,1.03,20
-KN,Brumaire,Clear,298.9,79,,10000,7.09,6
-FO,Argir,Clouds,276.67,70,,10000,3.57,99
-VG,Road Town,Rain,297.17,94,0.81,10000,2.57,40
-AS,Pago Pago,Rain,301.01,94,0.78,10000,3.09,75
-TC,West Road,Clouds,300.25,74,,10000,6.07,58
-MF,Marigot,Clouds,301.16,78,,10000,5.14,75
-FM,Micronesia,Thunderstorm,296.69,94,0.8,10000,4.12,100
-TV,Alapi Village,Clouds,302.14,84,,10000,0.0,75
-LI,Vaduz,Snow,274.98,81,,2510,1.83,91
-SZ,Lobamba,Clouds,303.64,51,,10000,1.54,20
-CK,Avarua,Clouds,297.14,88,,10000,6.17,75
-GD,St. George's,Clouds,302.01,79,,10000,5.14,20
-SM,San Marino,Clouds,279.86,40,,10000,9.26,20
-EH,Smara,Clear,291.93,44,,10000,3.28,6
-SX,Philipsburg,Clouds,301.2,78,,10000,3.09,75
-MP,Saipan,Clouds,300.23,78,,10000,8.75,40
-FK,Stanley,Clouds,289.31,60,,10000,3.66,81
-BM,Hamilton city,Clouds,293.47,78,,10000,4.12,75
-VA,State of the Vatican City,Clear,284.03,45,,10000,11.32,0
-NU,Alofi,Rain,299.43,94,0.51,10000,3.09,70
-GP,Saint-Claude,Clear,299.09,69,,10000,5.12,7
-GU,Agana Heights Village,Clouds,301.28,82,,10000,5.14,40
-SH,Saint Helena,Clouds,294.7,83,,10000,7.12,84
-MS,Brades,Clouds,300.91,74,,10000,5.66,40
-NR,Government Offices,Clouds,301.78,70,,10000,1.88,44
-BL,Gustavia,Clear,300.86,72,,10000,4.47,8
-PW,Palau,Clouds,300.06,89,,10000,1.54,75
-PM,Saint-Pierre,Snow,274.09,75,,10000,5.66,100
-AI,North Side,Clouds,301.15,78,,10000,5.14,20
-WF,Mata-Utu,Clouds,301.24,73,,10000,2.63,77
-NF,Kingston,Clouds,288.79,72,,10000,2.06,40
-SJ,Longyearbyen,Clouds,267.16,73,,10000,5.14,75
-PN,Pitcairn Islands,Rain,295.11,83,0.38,10000,6.87,69
-CX,Drumsite,Clouds,299.81,83,,10000,3.6,75
-GS,Grytviken,Clouds,275.28,71,,10000,3.88,95
-IN,Bareilly,Clouds,296.54,27,,10000,1.64,55
-VN,Hoi An,Mist,296.14,94,8.65,3500,2.57,75
-GH,Berekum,Clouds,306.05,47,,10000,2.01,81
-US,Oklahoma City,Clouds,273.16,83,,10000,3.58,40
-CN,Xinbei,Clouds,293.53,56,,10000,0.77,42
-CN,Dongtai,Clear,281.97,69,,10000,4.06,1
-CN,Yingcheng,Clear,292.38,67,,10000,1.43,6
-JP,Chiba,Clouds,283.39,40,,10000,1.66,31
-SD,Al Mijlad,Clouds,311.32,14,,10000,3.08,12
-ID,Pekanbaru,Rain,298.3,94,0.15,8000,2.57,40
-CN,Tak Hing,Clear,293.66,64,,10000,0.87,0
-UA,Nizhnedneprovsk,Rain,276.35,84,0.37,10000,3.3,100
-CN,Luoshuwan,Clear,283.65,67,,10000,3.78,6
-ET,Gode,Clouds,307.87,24,,10000,3.19,94
-,,Rain,295.31,99,0.42,10000,1.22,100
-CN,Nada,Clouds,294.37,92,,10000,4.57,100
-PH,Zamboanga City,Clouds,299.15,94,,10000,1.03,75
-IQ,Kirkuk,Clouds,290.42,40,,10000,2.36,100
-US,Bridgeport,Clear,270.8,65,,10000,0.45,0
-IT,Naples,Rain,283.97,57,1.15,10000,7.72,75
-CN,Wuchuan,Clear,294.57,76,,10000,7.67,2
-CN,Huilong,Clouds,285.75,64,,10000,3.76,100
-MX,Campestre Tarímbaro,Mist,274.51,100,,3219,0.0,0
-ES,Málaga,Clear,294.92,36,,10000,6.17,0
-PH,Kuanos,Clouds,298.27,85,,10000,1.82,99
-EG,Ţalkhā,Clouds,301.18,17,,10000,6.78,100
-IN,Coimbatore,Thunderstorm,299.93,78,,5000,1.54,40
-DO,La Cruz de Mendoza,Clouds,298.43,90,,10000,1.34,20
-JP,Umegaoka,Clouds,283.01,44,,10000,5.66,75
-KR,Seongnam-si,Clouds,270.51,50,,10000,0.51,40
-CN,Taishan,Clear,292.66,77,,10000,1.91,0
-BR,Teresina,Clear,303.99,55,,10000,2.57,0
-IN,Solapur,Clouds,301.51,52,,10000,3.38,91
-MA,Tanger-Medina,Clouds,291.04,77,0.1,10000,3.6,40
-IR,Kermanshah,Clear,288.65,29,,10000,2.06,0
-RU,Krasnodar,Clear,289.8,70,,10000,7.6,0
-SO,Baidoa,Clouds,303.11,48,,10000,4.98,100
-SO,Gaalkacyo,Clouds,306.56,24,,10000,5.92,96
-CN,Anqiu,Rain,277.58,86,0.2,10000,0.98,100
-CN,Feicheng,Clouds,275.44,95,,6237,1.52,100
-MY,Bukit Mertajam,Rain,300.25,83,1.33,9000,1.54,20
-BO,La Paz,Fog,280.33,93,,4000,1.54,75
-JP,Kitakyushu,Clouds,284.07,62,,10000,3.6,20
-CN,Ciba,Clouds,277.52,35,,10000,2.25,96
-SD,Khartoum North,Clouds,310.97,15,,10000,5.35,77
-CD,Kisangani,Rain,294.92,99,1.15,8586,0.74,100
-MX,Aguascalientes,Clear,275.13,75,,10000,3.09,0
-MA,Marrakesh,Clouds,291.18,55,,8000,0.51,40
-UA,Donetsk,Clouds,276.87,92,,10000,3.82,100
-PE,Trujillo,Fog,291.09,94,,7000,4.12,75
-US,Orleans,Clouds,285.82,68,,10000,5.14,100
-CN,Taihe,Clouds,287.5,85,,10000,2.12,100
-IN,Trichy,Mist,300.2,89,,4000,2.57,75
-CN,Zhudun,Clouds,280.27,67,,10000,3.87,99
-CN,Taihecun,Clouds,256.75,89,,10000,0.98,100
-CN,Kashgar,Clouds,281.7,29,,7000,2.0,20
-MX,Naucalpan,Clear,280.74,87,,10000,3.09,0
-TR,Kolej,Clouds,284.6,75,,10000,5.14,75
-CU,Santiago de Cuba,Clouds,296.2,94,,9000,2.06,100
-NG,Owerri,Rain,305.34,54,0.13,10000,1.6,90
-ID,Padang,Clouds,299.18,88,,10000,1.97,100
-CN,Qingzhou,Clouds,276.81,71,,10000,1.43,100
-CN,Lichuan,Clouds,281.05,95,,10000,0.74,100
-AR,Santiago del Estero,Clouds,296.24,48,,10000,3.18,97
-CN,Dongfenglu,Clouds,286.52,56,,10000,1.62,70
-CN,Hengzhou,Clear,294.43,66,,10000,1.3,0
-US,River Oaks,Clear,279.56,87,,10000,4.12,0
-US,Hartford,Clear,269.14,70,,10000,3.09,0
-TR,Esenyurt,Clear,289.86,63,,10000,7.72,0
-BR,Campo Grande,Clouds,298.16,78,,10000,4.63,75
-CN,Zhuanghe,Snow,273.02,90,,4931,4.44,100
-BF,Bobo-Dioulasso,Clouds,305.42,48,,10000,3.6,20
-SA,Dammam,Clouds,298.23,61,,10000,5.14,20
-CN,Quzhou,Clear,284.44,75,,10000,1.43,9
-CN,Lhasa,Clear,273.8,34,,10000,2.81,0
-CN,Jiaozhou,Clouds,279.92,81,,10000,0.94,100
-CD,Bunia,Rain,298.07,65,0.32,10000,1.27,100
-PH,Taguig City,Rain,297.61,92,0.49,9000,1.03,75
-MX,Cancún,Clouds,294.11,94,,10000,0.0,40
-MX,Mérida,Clouds,297.16,94,,9656,0.0,100
-CN,Chuncheng,Clear,291.96,83,,10000,1.12,0
-CN,Anyang,Clouds,275.01,50,,10000,1.27,46
-IN,Morādābād,Clouds,294.12,31,,10000,1.6,49
-PH,Antipolo City,Rain,296.43,92,1.64,9000,1.03,75
-NG,Abeokuta,Rain,305.35,54,0.16,10000,2.32,100
-KR,Bucheon-si,Clear,271.35,59,,10000,1.54,0
-CN,Lincheng,Clouds,287.41,73,,10000,3.37,100
-IN,Tirupur,Clouds,300.77,80,,10000,2.42,100
-BR,Ribeira,Clouds,303.23,58,,10000,4.12,40
-MX,Chihuahua City,Clouds,281.6,61,,10000,2.57,75
-MY,Klang,Rain,300.88,89,0.25,10000,1.03,20
+Country,Name,Weather,Temp,Humidity,Visibility,Wind speed,Clouds
+JP,Tokyo,Clouds,283.3,43,10000,5.66,75
+ID,Pecenongan,Clouds,299.01,86,6000,1.54,40
+IN,New Delhi,Smoke,296.25,43,2200,0.0,40
+CN,Guangzhou,Clear,295.07,44,10000,2.04,9
+IN,Konkan Division,Smoke,304.15,62,3000,3.09,40
+PH,Quiapo District,Rain,297.68,92,9000,1.79,75
+CN,Xuhui,Clear,284.95,78,10000,4.0,0
+BR,Liberdade,Clouds,290.17,83,10000,4.63,75
+KR,Seoul,Clear,270.77,59,10000,1.54,0
+MX,Mexico City,Clear,283.09,87,10000,0.0,0
+EG,Al ‘Atabah,Clouds,299.48,21,6000,7.2,40
+US,City Line,Clouds,272.62,62,10000,2.57,20
+BD,Sāmāir,Haze,300.13,54,3500,0.0,20
+CN,Beijing,Clouds,267.07,24,10000,1.41,53
+IN,Kolkata,Haze,299.12,61,3200,2.06,40
+TH,Nonthaburi,Clouds,300.54,66,10000,1.95,97
+CN,Gangxia,Clear,294.67,74,10000,0.89,9
+RU,Moscow,Clouds,267.42,93,10000,2.11,90
+AR,San Nicolas,Clear,293.2,68,10000,3.09,0
+NG,Lagos,Clouds,302.69,67,10000,4.29,70
+TR,Istanbul,Clear,290.15,63,10000,7.72,0
+PK,Karachi,Haze,302.23,21,2500,6.17,75
+IN,Kanija Bhavan,Clouds,295.9,94,6000,3.09,40
+VN,Ho Chi Minh City,Clouds,302.1,84,8000,1.03,40
+JP,Osaka,Clouds,281.57,64,10000,4.63,40
+CN,Chengdu,Clear,290.03,60,10000,3.0,0
+IR,Tehran,Haze,288.92,21,3500,2.06,0
+CD,Kinshasa,Rain,303.36,66,10000,4.12,75
+BR,Rio de Janeiro,Clouds,298.09,58,10000,3.6,75
+IN,Park Town,Mist,301.49,83,2300,4.12,75
+CN,Lianhu,Clouds,273.63,55,10000,1.09,51
+PK,Lahore,Smoke,295.14,49,4000,0.0,40
+CN,Chongqing,Clouds,289.24,88,10000,2.24,100
+US,Beverly Hills,Clouds,283.47,82,10000,2.06,75
+CN,Baoding,Clouds,273.05,28,10000,2.33,54
+GB,London,Clear,278.71,67,10000,5.14,6
+FR,Paris 01 Louvre,Clouds,280.81,74,10000,5.14,75
+CN,Linyi,Clouds,279.38,70,10000,2.03,100
+CN,Dongguan,Clouds,295.08,51,10000,2.31,26
+IN,Hyderabad,Haze,299.38,57,5000,3.6,75
+CN,Tianjin Municipality,Clear,272.14,55,10000,2.0,0
+PE,Rímac,Clouds,291.38,82,10000,2.57,100
+CN,Wuhan,Clouds,284.14,43,10000,5.04,37
+CN,Nanyang,Clouds,280.89,32,10000,1.28,100
+CN,Sijiqing,Clouds,286.4,70,10000,3.13,50
+CN,Huanshi,Clear,299.18,41,10000,1.98,10
+JP,Nagoya,Clear,281.93,65,10000,2.74,0
+TW,Xianeibu,Drizzle,292.45,88,10000,5.66,75
+CN,Kuishan,Clouds,282.78,54,10000,1.94,98
+AO,Luanda,Clouds,303.15,66,10000,3.6,75
+CN,Zhoukou,Rain,278.96,57,10000,2.64,100
+CN,Ganzhou,Clear,290.0,73,10000,1.24,3
+MY,Kuala Lumpur,Rain,300.52,90,10000,1.03,20
+CN,Heze,Rain,276.0,82,10000,0.34,100
+CN,Quanzhou,Clouds,290.76,65,10000,3.79,93
+US,Chicago,Clouds,271.22,62,10000,0.89,100
+CN,Nanjing,Clear,283.1,65,10000,3.9,3
+CN,Jining,Rain,276.46,87,10000,2.17,100
+VN,Xom Pho,Clouds,297.12,66,10000,4.45,74
+IN,Pune,Clouds,300.11,57,10000,2.39,83
+CN,Fuyang,Clouds,281.42,60,10000,4.86,91
+IN,Ahmedabad,Smoke,302.17,37,5000,5.66,78
+ZA,Johannesburg,Clear,303.17,33,10000,0.45,8
+CO,Santa Barbara Central,Clouds,286.14,82,10000,1.03,20
+TZ,Dar es Salaam,Rain,301.09,76,10000,4.52,98
+CN,Shenyang,Clouds,269.18,86,4000,4.0,100
+SD,Khartoum,Clouds,311.07,15,10000,5.35,25
+CN,Shangqiu,Rain,278.17,65,10000,2.32,100
+CN,Cangzhou,Clouds,274.09,34,10000,1.7,57
+HK,Kowloon,Clouds,295.86,74,10000,4.47,23
+CN,Niangxi,Clouds,286.96,65,10000,2.72,15
+CN,Haitou,Clouds,295.41,77,10000,7.54,72
+CN,Yancheng,Clear,281.0,71,10000,3.3,3
+CN,Hengyang,Clear,287.47,66,10000,2.34,2
+SA,Al Khālidīyah,Clouds,297.36,36,10000,3.98,76
+CN,Zhumadian,Rain,279.04,62,10000,1.99,100
+CL,Barrio Bellavista,Mist,291.48,63,10000,3.6,0
+CN,Xingtai,Clouds,275.84,33,10000,2.74,69
+BD,Chittagong,Haze,300.08,61,4500,2.06,40
+CN,Bijie,Clouds,286.24,88,10000,3.25,63
+CN,Shangrao,Clouds,284.95,73,10000,1.97,15
+CN,Zunyi,Clouds,285.67,87,10000,2.62,100
+IN,Surat,Clouds,304.09,51,6000,2.57,20
+ID,Surabaya,Clouds,300.12,78,8000,2.57,40
+CN,Fankou,Clouds,286.41,48,10000,3.18,36
+CN,Maoming,Clouds,293.51,77,10000,4.65,15
+CN,Nanchong,Clouds,287.99,87,10000,2.74,100
+CN,Xinyang,Rain,279.13,85,10000,2.74,100
+ES,Madrid,Clear,287.5,53,10000,1.03,0
+IQ,Shūrīyah,Clear,294.12,37,10000,3.09,0
+CN,Qujing,Clear,284.95,64,10000,2.52,3
+CN,Jieyang,Clouds,293.11,74,10000,1.41,44
+SG,Tanglin Halt,Clouds,299.19,94,10000,1.03,75
+IN,George Town,Clear,295.78,24,10000,1.13,0
+CN,Liaocheng,Clouds,275.54,81,10000,3.59,100
+CN,Dalian,Rain,278.05,48,10000,3.0,20
+CN,Yulin,Clear,294.76,58,10000,0.99,1
+CN,Changde,Clouds,285.29,40,10000,4.86,83
+CN,Qingdao,Clouds,279.94,70,10000,2.0,75
+CM,Akwa,Clouds,305.08,66,10000,1.54,75
+US,Miami,Clouds,295.01,94,10000,3.6,20
+CN,Xinxiang,Snow,274.96,52,10000,2.25,86
+CN,Huamu,Clear,284.91,79,10000,4.0,0
+CN,Xiangfan,Clouds,278.82,60,10000,3.28,96
+US,Dallas,Clouds,279.08,88,10000,2.06,40
+US,Houston,Clouds,282.35,86,10000,6.69,20
+CN,Zhengzhou,Clouds,275.41,30,10000,1.6,97
+CN,Lu'an,Clouds,284.51,58,10000,2.06,21
+CN,Dezhou,Clouds,275.32,42,10000,3.02,91
+CN,Jinan,Clouds,276.52,85,10000,2.28,100
+EG,Giza,Clouds,299.57,16,10000,9.51,100
+CN,Zhaotong,Clouds,282.82,90,10000,4.17,18
+CN,Chuntai,Clouds,284.53,77,10000,0.72,36
+KE,Nairobi,Clouds,297.0,58,10000,5.14,75
+MX,Guadalajara,Clear,278.01,75,10000,0.0,0
+US,Philadelphia,Clear,270.83,71,10000,1.54,0
+TR,Kolej,Clouds,285.29,74,10000,5.14,75
+CN,Tai’an,Clouds,275.14,96,2269,1.45,100
+CN,Dazhou,Clouds,286.22,85,10000,2.09,100
+CN,Langfang,Clouds,272.84,30,10000,1.56,46
+CN,Lengshuitan,Clear,288.9,64,10000,2.25,6
+CA,Don Mills,Clear,270.8,76,10000,4.63,0
+CN,Suihua,Clouds,257.33,93,10000,2.4,100
+RU,Aptekarskiy,Clouds,264.22,89,9000,2.0,20
+CN,Qiqihar,Clouds,261.07,78,10000,3.04,100
+CN,Suzhou,Clouds,282.78,59,10000,2.41,78
+MX,Monterrey,Clouds,288.11,71,10000,1.07,82
+BR,Belo Horizonte,Clear,296.84,65,10000,6.69,0
+CN,Shuangwang,Clouds,277.19,61,10000,0.62,43
+MM,Yangon,Haze,302.16,70,6000,2.57,40
+CN,Zhangzhou,Clouds,292.14,73,10000,0.77,33
+CN,Yuncheng,Clouds,274.16,50,10000,1.16,36
+CN,Qindu,Clear,273.73,74,10000,0.0,0
+CN,Guilin,Clouds,290.21,71,10000,1.01,67
+US,Fulton,Clouds,279.13,84,10000,3.6,20
+CN,Taizhou,Clear,282.57,67,10000,4.33,0
+IR,Kashan,Clouds,291.08,18,10000,1.79,18
+CN,Bozhou,Rain,279.65,61,10000,3.39,100
+CI,Abidjan,Thunderstorm,298.09,94,8000,4.63,75
+CN,Suqian,Clouds,281.08,63,10000,3.55,15
+CN,Huaihua,Clouds,285.97,66,10000,2.13,70
+CN,Ji’an,Clouds,286.39,70,10000,2.46,18
+CN,Xiaogan,Clouds,284.16,66,10000,7.38,79
+CN,Pingdingshan,Clouds,279.02,35,10000,1.37,100
+CN,Jiujiang,Clear,286.83,52,10000,0.68,5
+EG,Ash Shāţibī,Clouds,299.97,30,10000,7.65,100
+CN,Mianyang,Clouds,286.97,63,10000,1.09,100
+AU,Sydney,Rain,292.41,90,10000,2.06,40
+CN,Kaifeng,Clouds,276.43,53,10000,1.23,99
+US,District of Columbia,Clouds,272.46,70,10000,5.66,75
+ES,"Sant Pere, Santa Caterina i La Ribera",Clouds,289.49,65,10000,4.63,75
+CN,Changsha,Clouds,285.19,50,10000,3.39,11
+CN,Chenzhou,Clouds,287.63,81,10000,1.3,17
+CN,Anking,Clouds,286.73,43,10000,0.89,33
+CN,Jiangmen,Clouds,296.96,62,10000,3.43,16
+CN,Xinpu,Clouds,281.04,64,10000,4.53,89
+CN,Yibin,Clouds,290.3,83,10000,1.31,100
+CN,Yangzhou,Clear,283.63,73,10000,4.55,0
+AU,Melbourne,Drizzle,290.45,91,10000,2.06,75
+DE,Mitte,Clouds,275.84,85,10000,2.68,100
+CN,Hengshui,Clouds,274.2,31,10000,1.2,63
+CO,Rosas,Clouds,288.32,93,10000,0.89,94
+CN,Kunming,Clear,287.12,54,10000,4.0,0
+CN,Yiyang,Clouds,287.21,44,10000,3.86,45
+CN,Guigang,Clear,294.83,65,10000,1.98,3
+CN,Changchun,Clouds,264.07,86,10000,2.12,96
+CN,Xuchang,Clouds,277.69,42,10000,0.96,100
+MA,Région du Grand Casablanca,Clouds,291.66,55,8000,3.6,75
+CN,Meizhou,Clouds,292.13,63,10000,0.96,22
+CN,Zhangjiakou,Clouds,267.81,54,10000,1.46,45
+CN,Chifeng,Clouds,268.06,32,10000,4.26,49
+CN,Ürümqi,Smoke,274.87,81,5000,1.0,78
+CN,Suzhou,Clouds,285.45,61,10000,3.97,13
+TR,Izmir,Clouds,289.81,77,10000,5.14,75
+CN,Linfen,Clouds,274.99,52,10000,2.99,34
+CN,Changxiacun,Clear,293.07,64,10000,3.0,0
+AF,Kabul,Clouds,284.06,23,10000,0.89,100
+SO,Mogadishu,Rain,304.07,79,10000,6.69,40
+CN,Luzhou,Clouds,289.17,91,10000,0.83,100
+CN,Hefei,Clear,282.16,76,10000,2.0,0
+US,Suffolk,Clouds,269.01,60,10000,3.6,20
+CN,Liuzhou,Clouds,291.9,68,10000,2.21,15
+CN,Zhaoqing,Clear,299.16,59,10000,1.23,5
+CN,Yichang,Clouds,283.07,59,10000,1.25,99
+CN,Shijiazhuang,Clouds,270.09,23,10000,0.46,65
+CN,Ningbo,Clouds,283.08,81,9000,0.0,100
+CN,Qingyun,Clouds,286.39,77,10000,1.39,53
+US,Glendale,Clear,285.66,45,10000,2.24,0
+CN,Jianning,Clear,285.17,66,10000,1.27,4
+JO,Amman,Haze,291.05,63,3000,1.03,100
+CN,Chuzhou,Clear,284.4,66,10000,3.17,6
+SA,Jeddah,Clear,306.13,46,10000,4.63,0
+CN,Qingyuan,Clear,295.09,58,10000,1.55,7
+CN,Loudi,Clouds,286.71,56,10000,2.71,16
+CN,Binzhou,Rain,276.4,56,10000,2.18,100
+CN,Deyang,Clouds,287.12,63,10000,2.02,99
+CN,Taiyuan,Clear,273.08,59,10000,2.0,0
+NG,Kano,Clouds,309.09,32,8000,2.57,82
+CN,Yijiang,Clear,284.93,72,10000,4.82,0
+CN,Nanning,Clear,295.41,62,10000,2.4,6
+CN,Harbin,Clouds,258.07,91,10000,1.8,100
+NG,Abuja,Clouds,307.15,38,10000,1.6,67
+JP,Yokohama,Clouds,283.73,44,10000,5.66,75
+CN,Jinling,Clouds,280.57,60,10000,1.2,59
+CN,Zaozhuang,Clouds,279.5,63,10000,2.54,100
+CN,Amoy,Clouds,292.18,68,10000,4.0,75
+CN,Neijiang,Clouds,289.57,85,10000,3.37,97
+CN,Antai,Clouds,290.09,74,10000,1.03,100
+CN,Baise City,Clouds,297.84,99,10000,1.59,93
+CN,Anshan,Clouds,270.46,50,10000,4.42,81
+ID,Medan,Clouds,300.95,83,8000,3.13,40
+CN,Yulinshi,Clouds,273.56,39,10000,3.59,44
+CN,Wenzhou,Clouds,288.28,67,10000,1.34,100
+CN,Changzhou,Clear,285.3,60,10000,4.32,0
+CN,Puyang Chengguanzhen,Clouds,274.86,79,10000,2.66,92
+CN,Jiaozuo,Clouds,276.65,44,10000,3.92,95
+CN,Nanchang,Clouds,287.57,60,10000,1.45,50
+NG,Ibadan,Clouds,306.51,47,10000,2.0,89
+CN,Hechi,Clouds,292.24,80,10000,1.54,95
+US,Highland Park,Clear,267.38,79,10000,1.54,0
+CA,Montreal,Clear,265.46,72,10000,4.63,0
+KR,Busan,Clouds,274.06,47,10000,1.54,20
+CN,Hohhot,Clear,266.28,45,10000,3.0,0
+US,Seattle,Clear,273.35,88,10000,2.24,0
+DZ,El Madania,Clouds,293.01,40,10000,3.09,20
+CN,Hanzhong,Clouds,278.44,89,10000,1.42,91
+CN,Tangshan,Clouds,272.06,38,10000,2.08,69
+CN,Shiyan,Clouds,277.74,69,10000,1.69,100
+IN,Lucknow,Haze,297.2,46,2000,1.35,0
+CN,Ssupingkai,Clouds,265.21,75,10000,1.78,62
+IR,Mashhad,Clear,291.22,34,10000,2.06,0
+GH,Ashanti Region,Rain,304.01,57,10000,1.72,53
+CN,Changzhi,Clouds,272.52,52,10000,1.59,66
+AE,Dubai,Clouds,301.14,57,10000,4.63,20
+CN,Qinzhou,Clear,294.91,62,10000,1.74,2
+CN,Guiyang,Clouds,290.5,72,10000,2.0,75
+CN,Bengbu,Clouds,283.74,62,10000,2.61,23
+US,San Francisco County,Clear,281.1,59,10000,3.09,0
+CN,Bazhou,Clouds,285.84,82,10000,1.32,100
+CN,Tianshui,Clouds,280.53,31,10000,0.51,68
+CN,Suining,Clouds,288.32,85,10000,2.83,100
+CN,Wuxi,Clear,285.83,60,10000,5.09,3
+CN,Leshan,Clouds,289.69,78,10000,1.83,100
+CN,Putian,Clouds,289.91,68,10000,2.9,95
+CN,Zhenjiang,Clear,283.57,73,10000,4.45,0
+PK,Faisalabad,Clouds,295.25,23,10000,0.1,100
+CN,Guang’an,Clouds,287.7,87,10000,1.84,100
+CN,Tongren,Clouds,286.03,69,10000,1.92,88
+BO,El Trompillo,Clouds,295.18,83,10000,5.66,75
+CN,Qinhuangdao,Clouds,273.46,52,10000,4.12,98
+CN,Tongliao,Clouds,263.38,79,10000,4.82,84
+CN,Jinzhou,Clouds,272.9,69,10000,4.74,99
+CN,Dongpu,Clouds,294.39,61,10000,1.51,50
+US,Serra Mesa,Clear,283.91,86,10000,2.57,0
+IN,Rambagh,Smoke,296.84,43,2500,0.0,84
+CN,Xinzhou,Clouds,273.87,47,10000,0.41,65
+CN,Lanzhou,Clouds,278.76,45,10000,0.41,100
+CN,Wuzhou,Clear,293.52,62,10000,0.83,5
+GR,Metaxourgio,Clouds,293.16,52,10000,11.32,40
+ET,Addis Ababa,Clear,295.46,24,10000,4.43,7
+CN,Chaoyang,Clouds,270.81,54,10000,5.82,86
+BR,Guará,Clouds,298.94,57,10000,4.63,40
+TW,Taichung,Clouds,294.39,72,10000,3.09,40
+KW,Kuwait City,Clouds,294.18,48,10000,2.02,35
+HU,Budapest I. kerület,Clouds,277.81,63,10000,7.72,75
+CN,Shaoguan,Clouds,288.72,38,10000,0.92,17
+CN,Shanwei,Clouds,293.78,71,10000,8.34,41
+PH,Quezon City,Clouds,297.56,92,9000,2.68,75
+CN,Rizhao,Clouds,281.07,73,10000,3.1,100
+UA,Pushcha-Vodytsya,Clouds,276.81,72,10000,0.45,64
+YE,Sanaa,Clear,296.22,13,10000,3.56,7
+CN,Meishan,Clouds,289.19,81,10000,2.37,92
+KR,Incheon,Clear,273.13,43,10000,1.54,0
+GT,Guatemala City,Clouds,289.98,94,10000,6.17,40
+GB,Birmingham,Clear,277.76,75,10000,3.09,0
+CN,Zhongshan,Clear,297.01,59,10000,4.02,10
+CN,Ningteh,Clouds,288.41,74,10000,0.91,100
+CN,Weihai,Clouds,276.43,70,10000,4.45,95
+CN,Daqing,Clouds,260.19,88,10000,2.74,100
+TR,Bursa,Clouds,286.96,62,10000,5.28,100
+BR,Salvador,Clouds,302.03,65,10000,4.63,20
+IT,Rome,Clear,284.17,45,10000,11.32,0
+CN,Haikou,Clouds,296.18,88,10000,4.0,20
+BO,La Paz,Fog,282.91,82,4000,1.54,75
+CN,Xiangtan,Clear,285.18,58,10000,2.52,3
+KP,Ch’angjŏn-dong,Clouds,270.63,30,10000,0.78,39
+US,Minneapolis,Clouds,267.6,69,10000,1.54,75
+SD,Omdurman,Clouds,310.85,16,10000,5.29,31
+ID,Malang,Rain,296.17,98,7872,1.09,99
+CN,Mudanjiang,Clouds,260.74,86,10000,0.83,99
+DE,Stuttgart,Clouds,276.98,83,10000,9.26,75
+US,Brooklyn,Clouds,272.69,60,10000,2.57,20
+TW,Kaohsiung City,Clouds,296.33,75,10000,1.54,40
+EC,Guayaquil,Clouds,298.04,73,10000,2.06,40
+PT,Lisbon Municipality,Fog,289.52,74,10000,4.63,40
+CN,Longyan,Clouds,289.63,73,10000,1.24,85
+CN,Tieling,Snow,269.43,53,10000,3.4,62
+GB,Manchester,Clouds,277.11,76,10000,0.51,16
+CN,Baotou,Clouds,271.14,33,10000,1.77,24
+CN,Handan,Clouds,275.86,40,10000,3.57,84
+IN,Kanpur,Clear,296.27,36,10000,1.59,0
+CN,Dingxi,Clouds,275.79,42,10000,0.22,77
+CN,Nanping,Clouds,288.18,77,10000,1.2,87
+US,Citrus Park,Clouds,288.13,86,10000,4.12,40
+CN,Zigong,Clouds,290.34,83,10000,2.84,88
+VE,Maracaibo,Clouds,299.28,84,10000,1.3,23
+CN,Chaozhou,Clouds,293.09,74,10000,2.21,47
+CD,Mbuji-Mayi,Rain,299.67,72,10000,2.74,99
+US,Aurora,Clouds,263.24,85,10000,4.63,100
+CN,Dongjie,Clouds,290.05,75,10000,1.06,100
+CN,Weifang,Clouds,277.48,89,10000,1.85,100
+CN,Huai'an,Clear,281.57,65,10000,4.33,0
+CN,Zibo,Clouds,278.04,66,10000,1.16,100
+CN,Ankang,Clouds,277.65,76,10000,0.39,100
+CN,Baoshan,Clear,285.15,71,10000,0.58,1
+MG,Namontana,Rain,301.24,51,10000,6.17,75
+CN,Jinjiao,Clouds,274.28,65,10000,5.61,100
+DE,Munich,Snow,273.69,83,10000,1.79,87
+CN,Yanjiang,Clouds,288.6,86,10000,3.36,97
+DO,Villa María,Clouds,298.43,90,10000,1.34,20
+CN,Xubi,Clouds,287.62,83,10000,1.18,47
+UZ,Toshkent Shahri,Clear,287.95,41,10000,2.06,0
+CN,Pingluo,Clouds,278.63,35,10000,0.89,63
+CN,Yangjiang,Clouds,293.47,75,10000,3.92,13
+CN,Jiamusi,Clouds,253.59,92,10000,3.12,69
+CN,Luohe,Rain,278.44,46,10000,2.51,100
+CN,Lincang,Clouds,286.8,80,10000,0.71,13
+CO,Belén,Fog,290.57,97,10000,3.09,40
+CN,Xuanzhou,Clear,284.15,75,10000,3.62,0
+CN,Yunfu,Clear,293.7,63,10000,0.85,5
+CN,Datang,Clouds,285.12,72,10000,2.27,58
+CN,Qingyang,Rain,276.53,64,10000,1.9,97
+CN,Henan’an,Clouds,292.53,71,10000,2.75,32
+CN,Lishui,Clouds,285.36,81,10000,1.03,24
+IN,Mirzāpur,Clear,294.11,27,10000,1.38,0
+DE,Hamburg,Clouds,278.41,82,10000,4.63,75
+CN,Guangyuan,Clouds,283.33,81,10000,2.52,96
+CO,Santiago de Cali,Clouds,294.9,93,9778,0.66,100
+ZM,Lusaka,Clouds,304.5,29,10000,2.08,65
+CN,Tuanchengshan,Clouds,286.59,56,10000,0.85,21
+CN,Xining,Clouds,275.38,46,10000,0.77,93
+BF,Centre Region,Clouds,307.19,14,8000,4.63,75
+KR,Daegu,Clear,273.06,37,10000,0.51,0
+BR,Fortaleza,Clouds,303.09,64,10000,6.17,75
+CM,Yaoundé,Clouds,303.89,70,10000,0.0,75
+CN,Jilin City,Clouds,262.83,86,10000,1.46,85
+CN,Dandong,Clouds,270.68,26,10000,0.92,64
+CN,Zhuhai,Clear,295.7,78,10000,7.72,0
+CN,Huludao,Clouds,273.94,62,10000,5.21,100
+CN,Yingkou,Snow,272.85,76,10000,7.65,90
+TR,Antalya,Thunderstorm,294.18,73,10000,10.8,75
+IN,Nagpur,Haze,299.14,61,2500,1.03,20
+US,Queens County,Clouds,272.47,63,10000,4.47,20
+GH,Fort Christiansborg,Rain,303.11,66,10000,5.39,97
+ID,Bulanbulan,Clouds,298.81,94,6000,1.54,40
+IN,Ghaziabad,Clouds,294.26,22,10000,0.92,79
+CN,Yuxi,Clouds,286.26,78,10000,1.37,14
+CN,Luoyang,Clouds,276.22,44,10000,1.78,88
+AU,Brisbane,Clouds,294.36,81,10000,2.57,75
+CN,Anshun,Clouds,286.57,91,10000,3.99,90
+ID,Depok,Clouds,299.33,88,6000,1.54,40
+CN,Shangzhou,Clouds,275.73,79,10000,0.95,66
+CN,Shuihucun,Clear,284.5,65,10000,2.48,9
+LK,Colombo,Clouds,298.15,78,10000,2.23,54
+CN,Hulutao,Clouds,265.28,61,10000,1.32,50
+AZ,Cherni Gorod,Clouds,289.09,47,10000,11.27,61
+JP,Yakuin-Horibata,Clear,280.11,76,10000,1.54,0
+CN,Yan’an,Clouds,277.16,38,10000,0.9,35
+CN,Jincheng,Clouds,274.74,43,10000,1.47,61
+CA,Vancouver,Clouds,275.04,91,10000,2.57,75
+CN,Guanyinshan,Clear,283.16,66,10000,4.57,9
+ID,Tangerang,Clouds,298.79,91,4300,1.03,75
+VE,Caracas,Clouds,296.17,79,10000,0.89,40
+CN,Sanmenxia,Clouds,273.91,58,10000,1.42,49
+CN,Laibin,Clouds,294.03,67,10000,3.06,14
+TR,Konya,Clouds,284.14,66,10000,2.06,75
+BR,Manaus,Clear,300.3,78,10000,3.09,0
+IR,Isfahan,Clouds,288.94,25,10000,0.73,18
+CN,Tongchuan,Clouds,276.25,38,10000,2.49,76
+US,Baltimore,Clouds,271.66,70,10000,1.54,75
+CN,Ma’anshan,Clear,283.04,69,10000,4.89,0
+CN,Dongying,Clouds,276.59,71,10000,2.82,100
+CN,Gaoping,Clouds,287.76,86,10000,2.65,100
+CN,Jiaojiang,Clouds,285.88,78,10000,2.29,99
+ZW,Harare,Clouds,305.36,18,10000,2.51,32
+HK,Kowloon,Clouds,295.39,73,10000,4.47,21
+US,Eastland Heights,Clear,279.19,41,10000,6.17,0
+CU,Centro Habana,Clouds,292.44,94,9000,1.03,20
+AU,South Perth,Rain,299.24,58,10000,3.09,0
+KH,Phnom Penh,Clouds,301.1,69,10000,2.06,40
+CN,Puning,Clouds,290.28,80,10000,1.24,58
+CN,Huaibei,Clouds,282.26,57,10000,2.46,99
+CN,Jinjiang,Clouds,291.67,63,10000,5.15,97
+VN,Haiphong,Clear,296.14,78,10000,2.06,0
+CN,Taiping,Clouds,295.77,58,10000,1.5,35
+PK,Dhok Mangtal,Clouds,291.48,57,10000,1.94,100
+CN,Kunshan,Clouds,285.12,59,10000,3.24,22
+US,University City,Clear,271.13,85,10000,2.57,0
+GH,Kumasi,Rain,304.36,56,10000,1.82,46
+IN,Vadodara,Smoke,303.13,45,5000,2.57,40
+CN,Babu,Clouds,294.04,67,10000,1.12,64
+CN,Pingliang,Clouds,278.03,46,10000,0.72,91
+US,Portland,Mist,274.05,86,4828,2.68,75
+IN,Alipur,Haze,300.28,65,2500,4.12,75
+PK,Gujranwala,Clouds,295.19,27,10000,0.61,100
+CN,Baicheng,Clouds,262.86,63,10000,2.42,100
+TR,Gaziantep,Clouds,283.09,87,10000,4.12,75
+CN,Fushun,Clouds,268.98,53,10000,4.16,72
+US,Riverside,Clouds,282.73,86,10000,2.06,20
+ML,Bamako Region,Clear,306.44,16,10000,2.06,0
+EC,Quito,Rain,282.5,94,10000,1.03,75
+BY,Minsk City,Snow,273.01,94,654,3.63,89
+MX,Tijuana,Clear,284.19,86,10000,3.09,0
+CM,Bamenda,Rain,298.82,64,10000,0.79,91
+SO,Bosaso,Clouds,302.18,70,10000,4.63,20
+IN,Indore,Haze,297.21,46,5000,3.09,2
+TR,Sanliurfa,Clouds,287.09,56,10000,8.31,100
+AT,Vienna,Clouds,275.71,83,10000,8.94,75
+IR,Karaj,Clear,288.9,20,10000,2.06,0
+CD,Kabasele-Pania,Rain,297.66,86,10000,2.49,100
+PK,Sabzi Mandi,Haze,293.33,42,4000,0.0,75
+JP,Sapporo,Snow,268.25,72,9893,5.37,72
+MX,Ecatepec de Morelos,Clear,280.95,87,10000,3.09,0
+CN,Pingxiang,Clouds,284.9,81,10000,1.42,24
+US,Pine Castle,Clouds,288.39,85,10000,3.6,75
+SY,Aleppo,Clouds,291.17,55,10000,3.16,100
+US,Sacramento,Clear,277.77,71,10000,3.09,0
+KZ,Gornyy Gigant,Mist,279.71,76,5000,2.0,20
+PR,Leprocomio,Clear,299.56,87,10000,0.45,0
+US,Bexar,Clouds,284.84,74,10000,3.6,100
+CN,Yinchuan,Clouds,276.01,30,10000,1.89,52
+IN,Thāne,Smoke,304.11,62,3000,3.09,40
+BR,Vila Matias,Clouds,293.9,60,7000,4.12,100
+MW,Blantyre,Rain,304.43,27,10000,2.06,75
+RO,Grefoaicele,Clouds,278.07,93,10000,4.12,100
+BR,Curitiba,Mist,287.81,71,3700,2.57,100
+PK,Multan,Smoke,297.07,50,1500,0.0,75
+TW,Tainan,Clouds,292.29,77,10000,1.03,20
+CN,Datong,Clouds,272.32,35,10000,2.85,73
+NG,Orogbum,Clouds,305.59,52,10000,3.65,53
+PL,Warsaw,Clouds,273.21,92,10000,7.2,75
+CN,Jixi,Clouds,254.05,93,10000,1.37,51
+PK,Saidu Sharīf,Clouds,290.59,27,10000,0.61,100
+CN,Liaoyang,Clouds,269.31,47,10000,4.61,78
+CN,Beihai,Clouds,295.87,78,10000,6.05,15
+KE,Meru,Rain,293.6,84,7849,1.67,92
+CG,Brazzavile Department,Rain,303.2,66,10000,1.54,75
+CN,Fuxin,Clouds,271.61,52,10000,4.93,99
+CN,Wuwei,Clouds,277.47,30,10000,2.83,49
+TR,Mersin,Clouds,290.42,68,10000,2.5,100
+IN,Bhopal,Haze,298.22,36,3000,1.03,20
+CD,Lubumbashi,Clouds,302.28,40,10000,3.37,77
+ID,Denpasar,Clouds,300.77,83,10000,1.54,40
+PH,Davao City,Clouds,301.21,74,10000,2.57,75
+CN,Tangjian,Clouds,280.69,66,10000,4.61,32
+TR,Adana,Clouds,293.04,60,10000,4.63,75
+SY,Damascus,Clouds,288.61,51,10000,2.71,100
+BE,Arrondissement Brussel-Hoofdstad,Clouds,279.92,84,10000,4.63,40
+PK,Barkat Bhāi Town,Clouds,302.68,17,10000,3.66,87
+TR,Diyarbakır,Clouds,287.28,54,10000,3.09,75
+US,Seven Trees,Clear,280.66,57,10000,0.89,0
+IN,Pimpri,Clouds,300.07,56,10000,2.49,78
+UY,Departamento de Montevideo,Clear,290.34,55,10000,3.6,0
+US,Pittsburgh,Clouds,268.77,82,10000,2.3,100
+CN,Shuozhou,Clouds,272.48,45,10000,3.58,78
+US,Saint Bernard,Clear,270.53,75,10000,5.14,0
+CN,Benxi,Clouds,268.58,56,10000,3.54,72
+CN,Baiyin,Clouds,273.57,37,10000,0.87,100
+IQ,Mosul,Clouds,289.29,47,10000,3.08,100
+US,Manhattan,Clear,272.22,64,10000,2.57,0
+PH,Caloocan City,Clouds,297.67,92,9000,2.68,75
+UG,Kampala,Rain,299.04,68,10000,2.35,82
+IN,Patna,Mist,296.09,78,1500,0.0,0
+HN,Comayagüela,Clouds,292.4,94,10000,1.03,40
+US,Cleveland,Clouds,271.29,80,10000,2.57,40
+CN,Wanxian,Clouds,286.1,90,10000,1.93,100
+CN,Changshu City,Clear,282.9,65,10000,3.94,4
+SA,Makkah al Mukarramah,Clouds,305.31,41,10000,3.19,15
+CN,Heihe,Clear,256.46,77,10000,3.61,6
+CN,Jingdezhen,Clouds,285.82,66,10000,1.26,93
+GN,Camayenne,Clouds,303.18,70,10000,3.09,20
+BR,Graças,Clouds,303.12,54,10000,4.12,40
+US,Marion,Clear,271.04,73,10000,3.6,0
+US,Austin,Clouds,282.3,83,10000,2.57,100
+ID,Pamulang,Clouds,301.33,71,6000,1.54,40
+US,North Kansas City,Clouds,271.15,64,10000,2.06,100
+TW,Songwu,Clouds,291.78,87,10000,7.2,75
+RU,Novosibirsk,Clouds,267.81,73,10000,8.05,100
+IN,Bilāspur,Clear,297.18,45,10000,0.92,0
+ID,Semarang,Clouds,300.16,83,7000,1.03,40
+IN,Ludhiana,Clouds,295.98,57,10000,2.02,99
+BD,Nārāyanganj,Clear,300.16,50,10000,2.65,7
+SE,Stockholm,Clouds,268.27,83,10000,6.69,20
+CN,Tengzhou,Clouds,278.89,67,10000,2.1,100
+IN,Belanganj,Clouds,296.38,30,10000,1.28,79
+ML,Kita,Clear,307.27,9,10000,1.23,10
+MX,León,Clear,282.16,45,10000,1.02,7
+CI,Attiecoubé,Thunderstorm,298.08,94,8000,4.63,75
+MX,Puebla City,Clear,280.75,84,10000,0.8,2
+IN,Madurai,Mist,301.14,78,5000,2.06,75
+CN,Yigou,Clouds,274.23,59,10000,3.5,70
+AR,Córdoba,Clear,298.47,45,10000,7.2,0
+IR,Shiraz,Clouds,290.82,39,8000,3.09,12
+IN,Jamshedpur,Haze,297.12,64,2500,0.0,2
+IR,Tabriz,Clouds,284.83,40,10000,2.06,75
+CN,Huzhou,Clouds,284.59,77,10000,4.15,54
+US,Columbus,Clouds,268.89,80,10000,2.06,20
+BG,Sofia,Rain,275.18,96,10000,5.66,100
+JP,Kawasaki,Clouds,283.78,43,10000,5.66,75
+CR,San José,Clouds,291.28,88,10000,3.6,40
+NG,Aba,Clouds,305.13,55,10000,2.32,90
+ID,Kertapati,Haze,299.19,94,5000,1.03,75
+CN,Zhangjiajie,Clouds,283.99,70,10000,1.43,84
+JP,Kobe,Clouds,281.84,66,10000,3.09,40
+CN,Jiaxing,Clouds,289.27,71,10000,4.49,91
+US,Charlotte,Clouds,277.62,86,10000,3.6,20
+CN,Guiping,Clear,294.27,66,10000,1.43,5
+CN,Luozhou,Clouds,293.76,79,10000,4.13,11
+CN,Ximeicun,Clouds,290.58,66,10000,1.49,88
+CN,Jianguang,Clouds,286.77,72,10000,1.8,72
+CN,Jinshaba,Clouds,287.94,85,10000,0.34,100
+PA,Panama City,Clouds,299.01,91,10000,1.54,40
+CN,Xushan,Clouds,283.12,75,10000,3.83,94
+BR,Belém,Clouds,302.17,74,10000,5.66,75
+US,Virginia Beach,Clear,277.93,73,10000,9.26,0
+CN,Leicheng,Clouds,295.93,76,10000,6.63,98
+KR,Yach’on,Clear,273.1,47,10000,0.87,0
+IN,Nashik,Clear,301.18,39,10000,0.78,2
+BR,Porto Alegre,Clouds,293.61,64,10000,3.09,75
+VE,Valencia,Clouds,297.95,78,10000,0.43,40
+NG,Onitsha,Rain,306.56,51,10000,1.46,86
+AE,Abu Dhabi,Clouds,301.59,55,10000,4.63,20
+KR,Daejeon,Clear,271.07,39,10000,0.81,0
+MX,Zapopan2,Clear,278.01,51,10000,0.8,5
+US,Eastchester,Clouds,272.22,64,10000,4.47,20
+RU,Posëlok Rabochiy,Snow,269.96,86,10000,3.0,100
+CN,Huazhou,Clouds,279.69,48,10000,3.08,100
+JP,Shijōdōri,Clouds,281.08,84,10000,0.73,60
+CN,Jinhua,Clear,284.63,76,10000,1.35,0
+NL,Amsterdam,Clouds,280.49,79,10000,7.72,20
+CN,Shuangyashan,Clouds,253.1,90,10000,3.27,61
+CN,Pizhou,Clouds,280.43,61,10000,2.63,84
+MA,Sidi Moussa,Clouds,289.28,47,10000,2.03,86
+SN,Dakar,Clear,302.22,58,10000,8.23,0
+UA,Kharkiv,Clouds,274.16,94,10000,0.41,100
+CN,Zhangjiagang,Clear,283.12,82,10000,0.89,0
+CN,Xijiao,Clouds,276.11,39,10000,2.35,89
+CN,Kunyang,Clouds,288.21,71,10000,3.31,100
+BD,Khulna,Clouds,296.06,54,10000,2.14,37
+OM,Muscat,Clouds,300.16,58,10000,2.79,33
+CN,Wenling,Clouds,287.49,76,10000,4.3,96
+CN,Gaozhou,Clouds,293.34,74,10000,2.32,15
+IN,Faridabad,Clouds,294.31,23,10000,0.67,80
+CN,Chizhou,Clouds,286.27,49,10000,0.86,42
+IL,Tel Aviv,Clear,297.14,44,10000,2.06,0
+MN,Ulaanbaatar Hot,Clouds,254.13,84,10000,2.0,40
+BR,Goiânia,Clear,301.16,69,10000,3.09,0
+CN,Fuqing,Clouds,290.0,75,10000,4.42,99
+TR,Kayseri,Clouds,286.1,50,10000,4.12,75
+CN,Wuzhong,Clouds,275.07,33,10000,3.86,58
+RS,Serbia,Clouds,277.31,83,10000,5.66,40
+CN,Pingdu,Rain,277.22,78,10000,1.67,100
+IT,Milan,Clear,284.08,20,10000,7.72,0
+IN,Aurangabad,Clear,300.6,42,10000,2.07,1
+DK,Inner City,Clouds,274.56,66,10000,7.72,75
+CN,Yangquan,Clouds,274.7,64,10000,3.3,63
+CN,Yutan,Clouds,287.24,46,10000,3.89,32
+CN,Huangshan City,Clouds,285.24,69,10000,1.18,52
+NZ,Herne Bay,Clouds,287.45,71,10000,3.09,88
+ID,Makassar,Rain,297.17,100,7000,1.03,40
+DO,Santiago de los Caballeros,Mist,295.28,94,5000,0.0,20
+US,Wauwatosa,Clouds,268.25,75,10000,0.45,40
+IN,Rajkot,Clouds,305.35,29,10000,1.1,86
+CZ,Prague,Clouds,275.73,75,10000,6.26,75
+TR,Samsun,Clouds,292.51,40,10000,7.2,75
+CN,Liangshi,Clear,286.55,64,10000,3.04,5
+CO,Barranquilla,Rain,299.95,94,10000,0.0,75
+JP,Saitama,Clouds,283.01,46,10000,3.61,59
+BR,Guarulhos,Mist,290.02,84,5000,4.63,100
+IQ,Al Başrah al Qadīmah,Clear,295.14,37,10000,3.09,0
+MM,Mandalay,Clouds,298.19,82,10000,1.26,13
+MX,Ciudad Juárez,Clear,280.9,55,10000,4.02,0
+CN,Xintai,Clouds,275.81,90,3553,1.26,100
+CN,Tongling,Clouds,285.85,53,10000,0.89,18
+IN,Meerut,Clouds,295.77,26,10000,1.21,69
+CN,Yushu,Clouds,262.23,85,10000,1.54,100
+CN,Zhong’an,Clear,284.79,55,10000,0.26,3
+CN,Hexi,Clouds,293.78,76,10000,4.86,13
+AU,Adelaide,Clouds,289.47,81,10000,6.17,75
+CN,Baishan,Snow,264.21,74,10000,1.16,44
+CN,Lijiang,Clear,279.86,52,10000,1.81,0
+CN,Haicheng,Clouds,271.32,59,10000,5.28,82
+LY,Tripoli,Clouds,292.89,54,10000,14.95,91
+CN,Yaosai,Clear,283.1,61,10000,4.38,0
+CN,Yicheng,Clouds,285.29,72,10000,5.55,11
+CN,Huai'an,Clear,281.46,65,10000,4.41,0
+PT,Cedofeita,Clear,287.42,74,10000,1.54,0
+AO,Luanda,Clouds,303.58,66,10000,3.6,75
+ZA,Soweto,Clouds,304.04,13,10000,3.09,22
+AR,Rosario,Clear,296.09,49,10000,3.6,0
+PH,Province of Cagayan,Clouds,295.98,93,10000,1.38,100
+FI,Helsinki,Clouds,264.8,80,10000,7.15,20
+IN,Jabalpur,Haze,297.71,38,3000,1.54,0
+US,Providence,Clear,268.86,65,10000,2.57,0
+CN,Rucheng,Clear,282.91,66,10000,4.3,2
+RU,Nizhny Novgorod,Clouds,269.71,86,9000,1.0,100
+IR,Ahvāz,Clouds,297.12,46,8000,0.0,64
+ID,Mlonggo,Clouds,300.46,79,10000,3.39,100
+CN,Xinghua,Clear,282.08,68,10000,4.54,0
+HN,Comayagüela,Clouds,292.56,94,10000,1.03,40
+CN,Laiwu,Clouds,275.3,92,885,1.4,100
+AE,Al Ghuwair,Clouds,301.12,57,10000,5.14,20
+IN,Ulhasnagar,Clear,304.13,43,10000,3.01,9
+CN,Jingling,Rain,281.73,66,10000,5.23,92
+RU,Kizicheskaya,Clouds,273.69,95,10000,5.1,92
+KR,Namhyang-dong,Clear,270.92,64,10000,0.0,0
+CN,Suixi,Clouds,280.65,59,10000,4.22,99
+ID,Sumedang Utara,Clouds,296.27,92,10000,0.32,97
+CA,Calgary,Clear,268.85,71,10000,1.03,0
+VN,Can Tho,Clouds,300.14,83,10000,0.51,75
+CN,Yiwu,Clear,284.37,77,10000,1.41,8
+ID,Kangboi,Clouds,299.32,89,9000,2.06,40
+CN,Beidao,Clouds,277.99,34,10000,0.81,74
+IN,Virār,Clear,302.15,63,10000,3.99,4
+CN,Dongguan,Clear,285.02,92,10000,2.43,5
+US,Jacksonville,Clouds,284.35,94,10000,5.14,75
+TR,Akçaabat,Rain,290.48,59,10000,3.77,89
+BR,Campinas,Clouds,292.04,72,10000,6.69,75
+CN,Panzhihua,Clear,288.21,66,10000,0.21,0
+KE,Old Mombasa,Clouds,302.39,74,10000,2.57,75
+CN,Lingcheng,Clear,294.13,61,10000,1.7,1
+IN,Bahadurgarh,Smoke,294.24,56,2200,0.0,40
+BR,Oiapoque,Clouds,300.74,83,10000,2.6,41
+BD,Tongi,Haze,300.13,54,3500,0.0,20
+RU,Chelyabinsk,Smoke,271.94,86,5000,3.0,84
+IN,Varanasi,Clear,294.16,27,10000,0.78,0
+CN,Xinyu,Clouds,285.27,73,10000,1.15,51
+IR,Qom,Clouds,290.2,18,10000,3.2,23
+SO,Hargeisa,Clouds,296.43,49,10000,6.51,100
+CN,Zhangye,Clear,276.85,28,10000,1.8,1
+JP,Hiroshima,Clear,283.12,80,10000,2.3,10
+NG,Maiduguri,Clouds,310.32,15,10000,1.46,38
+TH,Chiang Mai,Clouds,298.73,74,10000,2.06,20
+QA,Doha,Clouds,300.12,57,10000,6.17,40
+MZ,Maputo,Clouds,302.94,62,10000,9.26,20
+CD,Mbandaka,Rain,300.69,68,10000,1.47,97
+SN,Pikine,Clear,302.2,58,10000,8.23,0
+SA,Medina,Clear,304.36,30,10000,2.57,0
+IN,Srinagar,Clouds,284.53,22,10000,0.38,100
+RU,Omsk,Clouds,267.04,79,10000,5.0,75
+IE,Mountjoy,Clouds,278.72,82,10000,2.06,40
+CN,Liaoyuan,Snow,264.85,75,10000,2.26,53
+ID,Karangbadar Kidul,Clouds,300.11,82,10000,2.16,90
+CN,Yingtan,Clouds,285.51,78,10000,1.93,54
+ID,Palembang,Clouds,296.99,95,10000,0.66,100
+RU,Samara,Clouds,274.08,93,10000,5.29,100
+CN,Guankou,Clouds,284.99,73,10000,0.72,18
+KR,Ulsan,Clear,275.24,48,10000,1.63,4
+IN,Dhanbad,Clear,296.23,26,10000,2.57,0
+CN,Dingzhou,Clouds,270.22,25,10000,1.62,38
+CN,Lianyuan,Clouds,287.54,60,10000,1.94,37
+CN,Xinshazhou,Clouds,282.6,55,10000,6.88,71
+CN,Hebi,Clouds,275.9,52,10000,1.1,48
+MM,Nay Pyi Taw,Clear,296.04,81,10000,2.47,7
+CN,Zhuji,Clouds,284.08,76,10000,0.12,16
+RW,Kigali,Thunderstorm,290.74,100,6000,2.06,75
+CD,Bukavu,Rain,292.21,96,6847,1.6,80
+CN,Leiyang,Clear,287.71,73,10000,1.98,8
+CM,Bafoussam,Clouds,297.93,59,10000,1.76,75
+CN,Yichun,Clouds,256.08,90,10000,2.77,94
+NG,Benin City,Rain,306.96,49,10000,1.32,54
+RU,Rostov-on-Don,Clouds,281.65,77,4561,9.83,100
+CN,Xiantao,Clouds,282.76,56,10000,6.52,67
+IN,Amritsar,Mist,293.12,77,2200,0.0,40
+PE,Bocanegra,Clouds,292.26,82,10000,2.57,100
+US,Salt Lake City,Clouds,271.78,79,10000,4.12,100
+IN,Aligarh,Clouds,295.85,30,10000,1.35,84
+NG,Sagamu,Clouds,306.51,51,10000,2.65,86
+CN,Yingchuan,Clouds,278.21,37,10000,0.89,100
+MX,Ciudad Nezahualcoyotl,Clear,281.14,87,10000,3.09,0
+GE,Meria,Clear,287.48,54,10000,3.09,0
+IN,Guwahati,Mist,297.13,73,2500,1.03,40
+RU,Staroye Baryatino,Clouds,274.28,95,10000,6.0,40
+MA,Fes,Clear,291.31,36,10000,2.57,0
+BR,São Luís,Clouds,304.26,62,10000,6.69,75
+VN,Bien Hoa,Clouds,302.14,87,10000,1.96,100
+ES,La Atalaya,Clear,289.81,46,10000,0.45,4
+TD,N'Djamena,Clouds,311.12,12,7000,3.6,54
+MX,Mexicali,Clear,286.41,64,10000,2.18,8
+MX,Ciudad Nezahualcoyotl,Clear,281.15,87,10000,3.09,0
+NG,Omuo-Ekiti,Clouds,304.79,50,10000,1.96,92
+US,Nashville,Clouds,274.97,82,10000,3.09,75
+GH,Tamale,Clouds,308.72,37,10000,3.15,65
+CN,Jiuquan,Clear,276.8,29,10000,1.77,7
+CN,Yuyao,Clouds,283.14,80,10000,2.68,83
+IN,Howrah,Haze,299.12,61,3200,2.06,40
+CN,Hanchuan,Clouds,284.12,64,10000,7.25,63
+CN,Gongzhuling,Clouds,263.63,80,10000,2.09,83
+RU,Krasnoyarsk,Snow,264.14,96,121,1.06,100
+DE,Altstadt Nord,Clouds,279.42,82,10000,7.72,100
+BI,Bujumbura,Rain,297.54,82,10000,2.22,61
+KG,Bishkek,Clouds,280.31,47,10000,0.84,15
+CN,Zhu Cheng City,Rain,278.46,83,10000,1.4,100
+BR,São Gonçalo,Clouds,298.06,61,10000,3.6,75
+AM,Yerevan,Clouds,285.2,50,10000,0.0,82
+CN,Wuchang,Clouds,286.67,49,10000,2.76,33
+KZ,Nur-Sultan,Clouds,271.2,74,10000,8.0,75
+KR,Yongin,Clouds,270.53,50,10000,0.51,40
+MR,Nouakchott,Clear,301.11,27,10000,4.42,3
+CN,Haining,Clouds,289.22,74,10000,4.82,82
+IN,Ranchi,Haze,293.16,60,3000,1.03,0
+CN,Taixing,Clear,283.71,65,10000,4.84,0
+ZA,Vereeniging,Clouds,306.67,14,10000,2.92,53
+IN,Gwalior,Clouds,295.29,32,10000,1.87,41
+CN,Hongsipu,Clouds,277.39,37,10000,2.84,68
+KR,Goyang-si,Clear,271.35,59,10000,1.54,0
+NO,Oslo,Clouds,272.47,80,10000,1.45,68
+IN,Vijayawada,Haze,302.14,61,3000,1.03,40
+IN,Chandigarh,Clouds,293.7,32,10000,0.96,93
+CA,Edmonton,Clouds,272.23,79,10000,3.09,57
+JP,Sendai,Clouds,277.8,56,10000,5.66,75
+US,West Raleigh,Clouds,277.35,68,10000,1.79,73
+CN,Mizhou,Rain,278.41,82,10000,1.33,100
+TN,Bab El Jazira,Clouds,291.14,48,8000,15.95,40
+CN,Xishan,Clouds,285.63,76,10000,1.22,14
+VE,Barquisimeto,Clouds,296.33,78,10000,1.27,40
+CN,Hegang,Clouds,254.83,83,10000,2.01,74
+RU,Voronezh,Clear,274.07,80,10000,4.0,0
+RU,Perm,Snow,264.98,86,10000,4.0,100
+KR,Changwon,Clear,272.08,29,10000,1.08,0
+CN,Qinzhou,Clear,295.0,65,10000,0.43,3
+CN,Shouguang,Clouds,276.84,81,10000,1.33,100
+ID,Bogor,Clouds,298.52,91,10000,0.22,99
+CO,Cartagena,Rain,301.01,89,10000,3.6,20
+MZ,Matola,Clouds,303.25,62,10000,9.26,20
+IN,Ratanada,Clouds,299.35,19,10000,2.62,80
+US,Oakville,Clouds,275.27,80,10000,2.06,20
+NG,Ogbomoso,Clouds,306.25,47,10000,2.29,75
+BD,Rangpur City,Clear,296.79,59,10000,2.74,0
+NI,Barrio Santo Domingo,Clouds,297.18,94,10000,2.06,20
+CN,Sanya,Clouds,299.27,69,10000,6.0,75
+KZ,Shymkent,Clear,284.49,66,10000,2.0,0
+CN,Tongxiang,Clouds,289.24,76,10000,4.32,76
+NE,Niamey,Clear,308.22,8,10000,3.6,0
+EG,Masākin al Akhshāb wa ash Shāy,Clouds,298.93,21,6000,7.2,40
+CN,Linhai,Clouds,285.92,55,10000,0.89,98
+TR,Denizli,Rain,286.61,84,5314,3.91,76
+BR,Maceió,Clouds,302.84,58,10000,4.63,40
+LR,Crown Hill,Rain,301.03,70,10000,3.96,100
+CN,Wafangdian,Snow,272.37,98,142,3.55,100
+CN,Anlu,Clouds,278.78,78,10000,5.1,98
+US,Newburg,Clear,273.02,69,10000,2.57,0
+UA,Odesa,Rain,277.51,94,2963,8.12,100
+VN,Ho Chi Minh City,Clouds,302.14,84,8000,1.03,40
+RU,Volgograd,Rain,280.81,93,10000,1.0,75
+PK,Islamabad,Clouds,291.35,57,10000,1.5,100
+HT,Port-au-Prince,Clouds,297.87,88,9000,2.06,20
+CN,Xinyi,Clear,293.91,63,10000,1.84,4
+IN,Raipur,Haze,299.22,61,4000,1.03,7
+PE,Arequipa,Clear,289.19,29,10000,1.54,0
+US,Richmond,Clouds,275.34,65,10000,4.12,75
+CN,Zaoyang,Clouds,279.57,64,10000,2.71,100
+US,Buffalo,Clouds,269.32,81,10000,2.57,75
+CN,Huaidian,Rain,279.27,63,10000,2.85,100
+CN,Xinzhou,Clear,286.94,94,10000,1.71,7
+IN,Kota,Clouds,297.56,28,10000,2.21,53
+PK,Kot Malik Barkhurdar,Clouds,287.44,32,10000,2.08,100
+NP,Thapathali,Clouds,290.35,77,8000,3.09,20
+CA,ByWard Market,Clouds,265.2,84,10000,2.57,20
+MW,Mchesi,Clouds,304.4,38,10000,4.28,98
+ER,Maekel Region,Clouds,291.97,47,10000,2.94,43
+SL,Freetown,Clouds,303.81,62,10000,4.12,40
+LA,Vientiane,Mist,297.12,78,5000,1.03,43
+IL,West Jerusalem,Clouds,292.54,46,10000,2.24,100
+LV,Vecrīga,Snow,273.09,94,6000,4.63,40
+CF,Bangui,Clouds,303.2,70,10000,2.57,40
+TJ,Dushanbe,Clouds,290.21,29,10000,3.0,99
+TG,Lomé,Thunderstorm,301.22,78,10000,6.17,75
+TM,Ashgabat,Clear,290.07,48,10000,2.06,5
+HR,Zagreb,Clouds,278.87,61,10000,6.17,20
+GA,Libreville,Clouds,303.16,74,10000,3.09,20
+BJ,Cotonou,Rain,305.13,66,10000,6.17,40
+ZA,Pretoria,Clear,306.36,24,10000,3.09,1
+LT,Vilnius,Clouds,273.35,93,10000,3.09,100
+CA,Winnipeg,Clouds,265.14,57,10000,5.66,20
+CA,Québec,Clouds,261.17,79,10000,2.57,20
+MD,Chișinău,Clouds,276.83,95,10000,5.14,100
+PG,Boroko,Clouds,298.89,91,10000,4.68,92
+MK,Skopje,Rain,276.05,93,8000,1.03,100
+DJ,Djibouti,Clouds,304.16,62,10000,6.17,20
+PS,Gaza,Clouds,298.06,31,10000,3.88,100
+JM,Kingston,Clouds,299.43,83,10000,1.03,75
+MA,Medina De Rabat,Clouds,292.01,60,5000,1.54,76
+SV,San Salvador,Clouds,293.11,96,10000,1.34,100
+NL,The Hague,Clouds,282.02,76,10000,6.69,83
+PY,Asunción,Clouds,297.75,78,10000,3.6,100
+SS,Republic of South Sudan,Clouds,308.7,32,10000,1.72,46
+LS,Maseru,Clouds,297.61,57,10000,2.06,75
+GW,Bissau Autonomous Region,Clouds,305.34,31,6000,2.57,36
+MT,Valletta,Clouds,290.41,63,8000,14.92,75
+SK,Bratislava,Clouds,276.5,65,10000,6.69,75
+CA,Kitchener,Clouds,271.32,81,10000,4.63,100
+BH,Umm ash Sha‘ūm,Clouds,298.17,66,10000,5.66,40
+EE,Toompea,Clouds,268.37,80,10000,4.12,75
+LB,Beyrouth,Clouds,295.69,51,10000,5.82,100
+ZA,Cape Town,Clear,296.09,54,10000,7.72,0
+AL,Tirana,Rain,279.66,100,10000,5.14,100
+BA,Hrasno,Snow,273.44,86,8000,1.54,75
+NZ,Wellington,Clouds,284.41,78,10000,10.29,100
+GM,City of Banjul,Clear,302.3,45,10000,4.63,0
+CA,Halifax,Clouds,267.4,68,10000,8.23,71
+AU,Canberra,Clouds,289.05,90,10000,4.63,50
+CI,Yamoussoukro,Clouds,303.68,70,10000,3.09,75
+CA,Victoria,Clouds,276.12,90,10000,5.14,88
+CY,Nicosia,Clouds,293.99,60,10000,5.66,100
+,Windhoek,Clouds,302.56,34,10000,6.17,40
+RE,Saint-Denis,Clear,300.57,70,10000,9.26,0
+BJ,Porto-Novo,Clouds,305.05,56,10000,4.25,87
+BO,El Tejar,Clouds,285.07,79,10000,1.88,97
+SI,Ljubljana,Clouds,280.22,36,10000,3.09,40
+BS,Nassau,Clouds,293.18,94,10000,1.54,75
+ZA,Bloemfontein,Clouds,303.86,33,10000,2.57,20
+MQ,Fort-de-France,Clouds,301.18,69,10000,4.12,75
+IN,"Parliament House, Delhi",Smoke,294.22,56,2200,0.0,40
+BW,Gaborone,Clouds,310.07,15,10000,4.63,20
+SR,Zorg en Hoop,Clouds,300.92,86,10000,1.79,31
+TL,Dili,Clouds,301.98,72,10000,1.36,69
+TZ,Dodoma,Clouds,303.46,32,10000,3.3,98
+GY,Georgetown,Clouds,302.31,74,10000,4.13,21
+GI,Waterport,Clear,291.48,42,10000,9.26,0
+GQ,Malabo,Rain,305.07,70,10000,2.06,40
+FJ,Suva,Clouds,295.86,94,10000,0.0,75
+NC,Noumea,Clouds,293.14,69,10000,3.81,75
+XK,Pristina,Snow,273.92,89,2500,4.12,100
+MV,Malé,Clouds,303.12,74,10000,2.57,20
+MU,Port Louis,Clouds,300.55,69,10000,7.02,13
+ME,Podgorica,Clouds,279.0,81,10000,7.2,100
+CW,Willemstad,Clouds,302.1,79,10000,5.14,20
+CH,Bern,Rain,275.73,71,10000,4.02,75
+BI,Gitega,Rain,293.73,80,6981,2.02,85
+IS,Grímsstaðaholt,Clouds,278.07,100,10000,3.6,20
+LU,Luxembourg,Rain,277.33,87,10000,5.14,75
+PF,Sainte Amélie,Clouds,298.11,83,10000,1.54,20
+CV,Praia,Clouds,302.47,54,10000,8.23,20
+LK,Kolonnawa,Clouds,298.16,80,10000,1.92,60
+BB,Deacons,Clouds,301.45,78,10000,7.72,75
+KM,Moroni,Rain,300.64,76,10000,1.36,92
+BT,Thimphu,Clouds,280.8,92,10000,0.57,29
+SZ,Mbabane,Clear,299.89,32,10000,5.39,2
+SB,Tamatangga,Clouds,299.46,90,10000,1.75,95
+TT,Boissiere Village,Clouds,301.28,83,10000,3.49,16
+LC,Sans Souci,Clouds,300.94,75,10000,3.09,20
+MY,Putrajaya,Rain,299.37,91,7062,0.51,100
+GF,Cayenne,Clouds,302.16,79,10000,2.57,75
+ST,São Tomé,Clouds,301.32,73,10000,2.86,91
+VU,Port-Vila,Clouds,294.03,88,10000,1.03,20
+BN,Kampong Parit,Thunderstorm,302.18,89,10000,1.54,75
+MC,Monaco,Clouds,287.82,41,10000,2.06,20
+WS,Apia,Clouds,298.66,77,10000,6.0,63
+KI,Teaoraereke Village,Clouds,302.2,79,10000,1.03,40
+AW,Santa Helena,Clouds,302.6,79,10000,6.69,20
+JE,Saint Helier,Clouds,284.03,46,10000,1.54,20
+YT,Mamoudzou,Clouds,304.94,62,10000,3.6,20
+MH,RMI Capitol,Clouds,302.15,79,10000,5.66,75
+IM,Douglas,Clouds,279.0,70,10000,2.06,75
+KY,George Town,Clouds,300.16,78,10000,3.09,20
+SC,Victoria,Clouds,303.74,66,10000,5.14,20
+VC,Kingstown,Rain,300.75,78,10000,5.66,75
+AD,Andorra,Clear,283.91,23,10000,4.63,0
+AG,St John's,Clouds,301.16,78,10000,3.6,20
+TO,Nuku'alofa,Clouds,296.34,94,10000,0.51,40
+GL,Sermersooq,Rain,275.48,93,10000,7.72,100
+BZ,Belmopan,Clouds,296.36,99,10000,0.5,81
+DM,Roseau,Clouds,301.51,65,10000,1.03,20
+KN,Brumaire,Clear,298.9,79,10000,7.09,6
+FO,Argir,Clouds,276.67,70,10000,3.57,99
+VG,Road Town,Rain,297.17,94,10000,2.57,40
+AS,Pago Pago,Rain,301.01,94,10000,3.09,75
+TC,West Road,Clouds,300.25,74,10000,6.07,58
+MF,Marigot,Clouds,301.16,78,10000,5.14,75
+FM,Micronesia,Thunderstorm,296.69,94,10000,4.12,100
+TV,Alapi Village,Clouds,302.14,84,10000,0.0,75
+LI,Vaduz,Snow,274.98,81,2510,1.83,91
+SZ,Lobamba,Clouds,303.64,51,10000,1.54,20
+CK,Avarua,Clouds,297.14,88,10000,6.17,75
+GD,St. George's,Clouds,302.01,79,10000,5.14,20
+SM,San Marino,Clouds,279.86,40,10000,9.26,20
+EH,Smara,Clear,291.93,44,10000,3.28,6
+SX,Philipsburg,Clouds,301.2,78,10000,3.09,75
+MP,Saipan,Clouds,300.23,78,10000,8.75,40
+FK,Stanley,Clouds,289.31,60,10000,3.66,81
+BM,Hamilton city,Clouds,293.47,78,10000,4.12,75
+VA,State of the Vatican City,Clear,284.03,45,10000,11.32,0
+NU,Alofi,Rain,299.43,94,10000,3.09,70
+GP,Saint-Claude,Clear,299.09,69,10000,5.12,7
+GU,Agana Heights Village,Clouds,301.28,82,10000,5.14,40
+SH,Saint Helena,Clouds,294.7,83,10000,7.12,84
+MS,Brades,Clouds,300.91,74,10000,5.66,40
+NR,Government Offices,Clouds,301.78,70,10000,1.88,44
+BL,Gustavia,Clear,300.86,72,10000,4.47,8
+PW,Palau,Clouds,300.06,89,10000,1.54,75
+PM,Saint-Pierre,Snow,274.09,75,10000,5.66,100
+AI,North Side,Clouds,301.15,78,10000,5.14,20
+WF,Mata-Utu,Clouds,301.24,73,10000,2.63,77
+NF,Kingston,Clouds,288.79,72,10000,2.06,40
+SJ,Longyearbyen,Clouds,267.16,73,10000,5.14,75
+PN,Pitcairn Islands,Rain,295.11,83,10000,6.87,69
+CX,Drumsite,Clouds,299.81,83,10000,3.6,75
+GS,Grytviken,Clouds,275.28,71,10000,3.88,95
+IN,Bareilly,Clouds,296.54,27,10000,1.64,55
+VN,Hoi An,Mist,296.14,94,3500,2.57,75
+GH,Berekum,Clouds,306.05,47,10000,2.01,81
+US,Oklahoma City,Clouds,273.16,83,10000,3.58,40
+CN,Xinbei,Clouds,293.53,56,10000,0.77,42
+CN,Dongtai,Clear,281.97,69,10000,4.06,1
+CN,Yingcheng,Clear,292.38,67,10000,1.43,6
+JP,Chiba,Clouds,283.39,40,10000,1.66,31
+SD,Al Mijlad,Clouds,311.32,14,10000,3.08,12
+ID,Pekanbaru,Rain,298.3,94,8000,2.57,40
+CN,Tak Hing,Clear,293.66,64,10000,0.87,0
+UA,Nizhnedneprovsk,Rain,276.35,84,10000,3.3,100
+CN,Luoshuwan,Clear,283.65,67,10000,3.78,6
+ET,Gode,Clouds,307.87,24,10000,3.19,94
+,,Rain,295.31,99,10000,1.22,100
+CN,Nada,Clouds,294.37,92,10000,4.57,100
+PH,Zamboanga City,Clouds,299.15,94,10000,1.03,75
+IQ,Kirkuk,Clouds,290.42,40,10000,2.36,100
+US,Bridgeport,Clear,270.8,65,10000,0.45,0
+IT,Naples,Rain,283.97,57,10000,7.72,75
+CN,Wuchuan,Clear,294.57,76,10000,7.67,2
+CN,Huilong,Clouds,285.75,64,10000,3.76,100
+MX,Campestre Tarímbaro,Mist,274.51,100,3219,0.0,0
+ES,Málaga,Clear,294.92,36,10000,6.17,0
+PH,Kuanos,Clouds,298.27,85,10000,1.82,99
+EG,Ţalkhā,Clouds,301.18,17,10000,6.78,100
+IN,Coimbatore,Thunderstorm,299.93,78,5000,1.54,40
+DO,La Cruz de Mendoza,Clouds,298.43,90,10000,1.34,20
+JP,Umegaoka,Clouds,283.01,44,10000,5.66,75
+KR,Seongnam-si,Clouds,270.51,50,10000,0.51,40
+CN,Taishan,Clear,292.66,77,10000,1.91,0
+BR,Teresina,Clear,303.99,55,10000,2.57,0
+IN,Solapur,Clouds,301.51,52,10000,3.38,91
+MA,Tanger-Medina,Clouds,291.04,77,10000,3.6,40
+IR,Kermanshah,Clear,288.65,29,10000,2.06,0
+RU,Krasnodar,Clear,289.8,70,10000,7.6,0
+SO,Baidoa,Clouds,303.11,48,10000,4.98,100
+SO,Gaalkacyo,Clouds,306.56,24,10000,5.92,96
+CN,Anqiu,Rain,277.58,86,10000,0.98,100
+CN,Feicheng,Clouds,275.44,95,6237,1.52,100
+MY,Bukit Mertajam,Rain,300.25,83,9000,1.54,20
+BO,La Paz,Fog,280.33,93,4000,1.54,75
+JP,Kitakyushu,Clouds,284.07,62,10000,3.6,20
+CN,Ciba,Clouds,277.52,35,10000,2.25,96
+SD,Khartoum North,Clouds,310.97,15,10000,5.35,77
+CD,Kisangani,Rain,294.92,99,8586,0.74,100
+MX,Aguascalientes,Clear,275.13,75,10000,3.09,0
+MA,Marrakesh,Clouds,291.18,55,8000,0.51,40
+UA,Donetsk,Clouds,276.87,92,10000,3.82,100
+PE,Trujillo,Fog,291.09,94,7000,4.12,75
+US,Orleans,Clouds,285.82,68,10000,5.14,100
+CN,Taihe,Clouds,287.5,85,10000,2.12,100
+IN,Trichy,Mist,300.2,89,4000,2.57,75
+CN,Zhudun,Clouds,280.27,67,10000,3.87,99
+CN,Taihecun,Clouds,256.75,89,10000,0.98,100
+CN,Kashgar,Clouds,281.7,29,7000,2.0,20
+MX,Naucalpan,Clear,280.74,87,10000,3.09,0
+TR,Kolej,Clouds,284.6,75,10000,5.14,75
+CU,Santiago de Cuba,Clouds,296.2,94,9000,2.06,100
+NG,Owerri,Rain,305.34,54,10000,1.6,90
+ID,Padang,Clouds,299.18,88,10000,1.97,100
+CN,Qingzhou,Clouds,276.81,71,10000,1.43,100
+CN,Lichuan,Clouds,281.05,95,10000,0.74,100
+AR,Santiago del Estero,Clouds,296.24,48,10000,3.18,97
+CN,Dongfenglu,Clouds,286.52,56,10000,1.62,70
+CN,Hengzhou,Clear,294.43,66,10000,1.3,0
+US,River Oaks,Clear,279.56,87,10000,4.12,0
+US,Hartford,Clear,269.14,70,10000,3.09,0
+TR,Esenyurt,Clear,289.86,63,10000,7.72,0
+BR,Campo Grande,Clouds,298.16,78,10000,4.63,75
+CN,Zhuanghe,Snow,273.02,90,4931,4.44,100
+BF,Bobo-Dioulasso,Clouds,305.42,48,10000,3.6,20
+SA,Dammam,Clouds,298.23,61,10000,5.14,20
+CN,Quzhou,Clear,284.44,75,10000,1.43,9
+CN,Lhasa,Clear,273.8,34,10000,2.81,0
+CN,Jiaozhou,Clouds,279.92,81,10000,0.94,100
+CD,Bunia,Rain,298.07,65,10000,1.27,100
+PH,Taguig City,Rain,297.61,92,9000,1.03,75
+MX,Cancún,Clouds,294.11,94,10000,0.0,40
+MX,Mérida,Clouds,297.16,94,9656,0.0,100
+CN,Chuncheng,Clear,291.96,83,10000,1.12,0
+CN,Anyang,Clouds,275.01,50,10000,1.27,46
+IN,Morādābād,Clouds,294.12,31,10000,1.6,49
+PH,Antipolo City,Rain,296.43,92,9000,1.03,75
+NG,Abeokuta,Rain,305.35,54,10000,2.32,100
+KR,Bucheon-si,Clear,271.35,59,10000,1.54,0
+CN,Lincheng,Clouds,287.41,73,10000,3.37,100
+IN,Tirupur,Clouds,300.77,80,10000,2.42,100
+BR,Ribeira,Clouds,303.23,58,10000,4.12,40
+MX,Chihuahua City,Clouds,281.6,61,10000,2.57,75
+MY,Klang,Rain,300.88,89,10000,1.03,20

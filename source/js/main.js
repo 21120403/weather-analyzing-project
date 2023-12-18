@@ -1,40 +1,29 @@
-var inputCate = document.getElementById("input__category-select")
-var notify = document.querySelector("#notify")
-var outputContainer = document.querySelector('.output-container');
-var imgInputContainer = document.querySelector(".img-input-container")
-var imgInput = document.querySelector('.img-input__img')
-var headingImgInput = document.querySelector('.img-input__heading')
-categorySelected = "gradient_custom"
-inputCate.onchange = function(event){
-    categorySelected = event.target.value
-}
 
-function previewImage() {
-    
-    notify.innerText = "Please wait..."
-   
-    var file = document.getElementById('files').files[0];
-    var reader = new FileReader();
+var inputBtn = document.querySelector(".input__btn")
+var tempElement = document.getElementById("temp")
+var humidityElement = document.getElementById("humidity")
+var visibilityElement = document.getElementById("visibility")
+var windspeedElement = document.getElementById("winspeed")
+var cloudsElement = document.getElementById("clouds")
+var outputHeading = document.querySelector(".output__heading")
 
-    reader.onloadend = function () {
-        imgInputContainer.classList.add("show")
-        imgInput.src = reader.result
-        headingImgInput.innerText = "This is your old image"
-      sendToBackend(reader.result,categorySelected);
-    };
-  
-    if (file) {
-      reader.readAsDataURL(file);
-    } else {
-      preview.src = '';
-    }
+inputBtn.onclick = function() {
+  if (tempElement.value == '' || humidityElement.value == '' || visibilityElement.value == '' || windspeedElement.value == ''|| cloudsElement.value == ''){
+    alert("Please enter full of value!!")
+  }
+  else{
+    sendToBackend(tempElement.value, humidityElement.value, visibilityElement.value,windspeedElement.value, cloudsElement.value)
   }
   
-  function sendToBackend(imageData, typeAlgorithm) {
+}
+
+
+  
+  function sendToBackend(tempValue, humidityValue, visibilityValue,windspeedValue,cloudsValue) {
     // Gửi dữ liệu hình ảnh imageData tới backend sử dụng fetch API
-    fetch('http://127.0.0.1:5000/process_image', {
+    fetch('http://127.0.0.1:5000/predict_weather', {
       method: 'POST',
-      body: JSON.stringify({ image_data: imageData , type_algorithm :  typeAlgorithm}),
+      body: JSON.stringify({ tempValue: tempValue , humidityValue :  humidityValue, visibilityValue :visibilityValue, windspeedValue: windspeedValue,cloudsValue:cloudsValue }),
       headers: {
         'Content-Type': 'application/json'
       }
@@ -43,15 +32,21 @@ function previewImage() {
     .then(data => {
       // Nhận hình ảnh từ server ở đây
       console.log('Kết quả xử lý từ backend:', data);
-      var img = document.querySelector('.output__img');
-      img.src = 'data:image/png;base64,' + data.processed_image;
-      var h3 = document.querySelector('.output__heading');
-      h3.innerText = "This is your image after edge detection"
-      // Tìm phần tử có class là 'output-container' và thêm thẻ <img> vào đó
+
       
-      outputContainer.classList.add("show")
-      outputContainer.appendChild(h3);
-      notify.innerText = ""
+      if (data.predicted_weather == "Clear"){
+        outputHeading.innerText = "Current weather is so beautiful. You should have a date with your girlfriend <3"
+        outputHeading.style.color = "green"
+      }
+      else if(data.predicted_weather == "Clouds"){
+        outputHeading.innerText = "Current weather is too cloudy. You should bring your umbrella to cover your girlfriend <3"
+        outputHeading.style.color = "#0f70e6"
+      }
+      else{
+        outputHeading.innerText = "Current weather is so bad. You shouldn't have a date now. :(("
+        outputHeading.style.color = "red"
+      }
+
     })
     .catch(error => console.error('Lỗi:', error));
   }

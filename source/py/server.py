@@ -2,56 +2,62 @@
 import cv2 
 from flask import Flask, request, jsonify
 from flask_cors import CORS  # Import thư viện CORS
-import base64
+import pandas as pd
+import numpy as np
+from sklearn.model_selection import train_test_split
+from sklearn.svm import SVC
+
+from sklearn.ensemble import RandomForestClassifier
 
 
 app = Flask(__name__)
-CORS(app, resources={r"/process_image": {"origins": "http://127.0.0.1:5500"}})
+CORS(app, resources={r"/predict_weather": {"origins": "http://127.0.0.1:5500"}})
+weather_df = pd.read_csv('./data/internal/weather.csv')
 
-@app.route('/process_image', methods=['POST'])
+weather_df = weather_df.drop("Country", axis='columns')
+weather_df = weather_df.drop("Name", axis='columns')
+
+# Thay đổi nhãn của các loại thời tiết không thuộc Clear hoặc Clouds thành 'Thời tiết xấu'
+weather_df['Weather'] = weather_df['Weather'].replace(['Haze', 'Mist', 'Snow', 'Thunderstorm', 'Rain', 'Drizzle', 'Fog', 'Smoke'], 'Poor weather')
+
+# Lấy các feature và nhãn đã chỉnh sửa
+features = weather_df[['Temp', 'Humidity', 'Visibility', 'Wind speed', 'Clouds']]
+labels = weather_df['Weather']
+X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.2, random_state=42)
+
+# Tạo mô hình Random Forest và huấn luyện nó
+rf_model = RandomForestClassifier(n_estimators=100, random_state=42)  # Số cây quyết định = 100
+rf_model.fit(X_train, y_train)
+
+
+@app.route('/predict_weather', methods=['POST'])
 def handle_image():
     try:
-        image_data = request.json['image_data']
-        type_algorithm = request.json['type_algorithm']
-        print(type_algorithm)
-        processed_image = None
-        if type_algorithm == "gradient_custom":
-            processed_image = gradient_custom(image_data)
+        tempValue = request.json['tempValue']
+        humidityValue = request.json['humidityValue']
+        visibilityValue = request.json['visibilityValue']
+        windspeedValue = request.json['windspeedValue']
+        cloudsValue = request.json['cloudsValue']
         
-        if type_algorithm == "gradient_library":
-            processed_image = gradient_library(image_data)
-            
-        if type_algorithm == "laplace_custom":
-            processed_image = laplace_custom(image_data)
+        print(tempValue,humidityValue,visibilityValue,windspeedValue,cloudsValue)
         
-        if type_algorithm == "laplace_library":
-            processed_image = laplace_library(image_data)
+        user_input = pd.DataFrame({
+            'Temp': [float(tempValue)],
+            'Humidity': [int(humidityValue)],
+            'Visibility': [int(visibilityValue)],
+            'Wind speed': [float(windspeedValue)],
+            'Clouds': [int(cloudsValue)]
+        })
+        
+        prediction = rf_model.predict(user_input)
+        predicted_weather = prediction[0]
 
-        if type_algorithm == "laplacian_library":
-            processed_image = laplacian_library(image_data)
-            
-        if type_algorithm == "laplacian_custom":
-            processed_image = laplacian_custom(image_data)
+        if tempValue is None or humidityValue is None or visibilityValue is None or windspeedValue is None or cloudsValue is None:
+            return jsonify({'error': 'Không thể xử lý giá trị'}), 500
 
-        if type_algorithm == "canny_library":
-            processed_image = canny_library(image_data)
-        
-        if type_algorithm == "canny_custom":
-            processed_image = canny_custom(image_data)
-        
-        
-        if processed_image is None:
-            return jsonify({'error': 'Không thể xử lý ảnh'}), 500
-        
-        # Chuyển ảnh đã xử lý thành dạng base64 để trả về
-        retval, buffer = cv2.imencode('.png', processed_image)
-        
-        if not retval:
-            return jsonify({'error': 'Không thể mã hóa ảnh'}), 500
-        
-        encoded_image = base64.b64encode(buffer).decode()
-        
-        return jsonify({'processed_image': encoded_image})
+
+
+        return jsonify({'predicted_weather': predicted_weather})
     
     except Exception as e:
         return jsonify({'error': str(e)}), 500

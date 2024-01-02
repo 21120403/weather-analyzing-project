@@ -23,7 +23,7 @@ labels = weather_df['Weather']
 X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.2, random_state=80)
 
 param_dist = {
-    'n_estimators': [50, 100, 200],
+    'n_estimators': [100, 200],
     'max_depth': [None],
     'min_samples_split': [2],
     'min_samples_leaf': [1],

@@ -1,18 +1,15 @@
-
-import cv2 
 from flask import Flask, request, jsonify
 from flask_cors import CORS  # Import thư viện CORS
 import pandas as pd
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.svm import SVC
 
+from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import RandomizedSearchCV
 
 
 app = Flask(__name__)
 CORS(app, resources={r"/predict_weather": {"origins": "http://127.0.0.1:5500"}})
-weather_df = pd.read_csv('./data/internal/weather.csv')
+weather_df = pd.read_csv('data/internal/processed/weather_processed.csv')
 
 weather_df = weather_df.drop("Country", axis='columns')
 weather_df = weather_df.drop("Name", axis='columns')
@@ -23,11 +20,22 @@ weather_df['Weather'] = weather_df['Weather'].replace(['Haze', 'Mist', 'Snow', '
 # Lấy các feature và nhãn đã chỉnh sửa
 features = weather_df[['Temp', 'Humidity', 'Visibility', 'Wind speed', 'Clouds']]
 labels = weather_df['Weather']
-X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.2, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(features, labels, test_size=0.2, random_state=80)
 
-# Tạo mô hình Random Forest và huấn luyện nó
-rf_model = RandomForestClassifier(n_estimators=100, random_state=42)  # Số cây quyết định = 100
-rf_model.fit(X_train, y_train)
+param_dist = {
+    'n_estimators': [100, 200],
+    'max_depth': [None],
+    'min_samples_split': [2],
+    'min_samples_leaf': [1],
+    'class_weight': [None]
+}
+
+rf_model = RandomForestClassifier(random_state=44)
+random_search = RandomizedSearchCV(rf_model, param_distributions=param_dist, n_iter=10, cv=5, scoring='accuracy', random_state=44)
+random_search.fit(X_train, y_train)
+
+# Chọn ra mô hình tốt nhất
+best_rf_model = random_search.best_estimator_
 
 
 @app.route('/predict_weather', methods=['POST'])
@@ -49,7 +57,7 @@ def handle_image():
             'Clouds': [int(cloudsValue)]
         })
         
-        prediction = rf_model.predict(user_input)
+        prediction = best_rf_model.predict(user_input)
         predicted_weather = prediction[0]
 
         if tempValue is None or humidityValue is None or visibilityValue is None or windspeedValue is None or cloudsValue is None:

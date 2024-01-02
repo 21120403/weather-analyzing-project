@@ -1,19 +1,15 @@
-
-import cv2 
 from flask import Flask, request, jsonify
 from flask_cors import CORS  # Import thư viện CORS
 import pandas as pd
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.svm import SVC
 
+from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import RandomizedSearchCV
 
 
 app = Flask(__name__)
 CORS(app, resources={r"/predict_weather": {"origins": "http://127.0.0.1:5500"}})
-weather_df = pd.read_csv('./data/internal/weather.csv')
+weather_df = pd.read_csv('data/internal/processed/weather_processed.csv')
 
 weather_df = weather_df.drop("Country", axis='columns')
 weather_df = weather_df.drop("Name", axis='columns')
